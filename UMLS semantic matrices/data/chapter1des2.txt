@@ -1,0 +1,1270 @@
+Cholera due to vibrio cholerae
+Cholera due to vibrio cholerae el tor
+Cholera, unspecified
+Typhoid fever
+Paratyphoid fever A
+Paratyphoid fever B
+Paratyphoid fever C
+Paratyphoid fever, unspecified
+Salmonella gastroenteritis
+Salmonella septicemia
+Localized salmonella infection, unspecified
+Salmonella meningitis
+Salmonella pneumonia
+Salmonella arthritis
+Salmonella osteomyelitis
+Other localized salmonella infections
+Other specified salmonella infections
+Salmonella infection, unspecified
+Shigella dysenteriae
+Shigella flexneri
+Shigella boydii
+Shigella sonnei
+Other specified shigella infections
+Shigellosis, unspecified
+Staphylococcal food poisoning
+Botulism food poisoning
+Food poisoning due to Clostridium perfringens (C. welchii)
+Food poisoning due to other Clostridia
+Food poisoning due to Vibrio parahaemolyticus
+Food poisoning due to Vibrio vulnificus
+Other bacterial food poisoning
+Food poisoning, unspecified
+Acute amebic dysentery without mention of abscess
+Chronic intestinal amebiasis without mention of abscess
+Amebic nondysenteric colitis
+Amebic liver abscess
+Amebic lung abscess
+Amebic brain abscess
+Amebic skin ulceration
+Amebic infection of other sites
+Amebiasis, unspecified
+Balantidiasis
+Giardiasis
+Coccidiosis
+Intestinal trichomoniasis
+Cryptosporidiosis
+Cyclosporiasis
+Other specified protozoal intestinal diseases
+Unspecified protozoal intestinal disease
+Intestinal infection due to E. coli, unspecified
+Intestinal infection due to enteropathogenic E. coli
+Intestinal infection due to enterotoxigenic E. coli
+Intestinal infection due to enteroinvasive E. coli
+Intestinal infection due to enterohemorrhagic E. coli
+Intestinal infection due to other intestinal E. coli infections
+Intestinal infection due to arizona group of paracolon bacilli
+Intestinal infection due to aerobacter aerogenes
+Intestinal infection due to proteus (mirabilis) (morganii)
+Intestinal infection due to staphylococcus
+Intestinal infection due to pseudomonas
+Intestinal infection due to campylobacter
+Intestinal infection due to yersinia enterocolitica
+Intestinal infection due to Clostridium difficile
+Intestinal infection due to other anaerobes
+Intestinal infection due to other gram-negative bacteria
+Intestinal infection due to other organisms
+Bacterial enteritis, unspecified
+Enteritis due to rotavirus
+Enteritis due to adenovirus
+Enteritis due to norwalk virus
+Enteritis due to other small round viruses [SRV's]
+Enteritis due to calicivirus
+Enteritis due to astrovirus
+Enteritis due to enterovirus nec
+Enteritis due to other viral enteritis
+Intestinal infection due to other organism, not elsewhere classified
+Infectious colitis, enteritis, and gastroenteritis
+Colitis, enteritis, and gastroenteritis of presumed infectious origin
+Infectious diarrhea
+Diarrhea of presumed infectious origin
+Primary tuberculous infection, unspecified
+Primary tuberculous infection, bacteriological or histological examination not done
+Primary tuberculous infection, bacteriological or histological examination unknown (at present)
+Primary tuberculous infection, tubercle bacilli found (in sputum) by microscopy
+Primary tuberculous infection, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Primary tuberculous infection, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Primary tuberculous infection, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculous pleurisy in primary progressive tuberculosis, unspecified
+Tuberculous pleurisy in primary progressive tuberculosis, bacteriological or histological examination not done
+Tuberculous pleurisy in primary progressive tuberculosis, bacteriological or histological examination unknown (at present)
+Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli found (in sputum) by microscopy
+Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Other primary progressive tuberculosis, unspecified
+Other primary progressive tuberculosis, bacteriological or histological examination not done
+Other primary progressive tuberculosis, bacteriological or histological examination unknown (at present)
+Other primary progressive tuberculosis, tubercle bacilli found (in sputum) by microscopy
+Other primary progressive tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Other primary progressive tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Other primary progressive tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Primary tuberculous infection, unspecified, unspecified
+Primary tuberculous infection, unspecified, bacteriological or histological examination not done
+Primary tuberculous infection, unspecified, bacteriological or histological examination unknown (at present)
+Primary tuberculous infection, unspecified, tubercle bacilli found (in sputum) by microscopy
+Primary tuberculous infection, unspecified, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Primary tuberculous infection, unspecified, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Primary tuberculous infection, unspecified, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of lung, infiltrative, unspecified
+Tuberculosis of lung, infiltrative, bacteriological or histological examination not done
+Tuberculosis of lung, infiltrative, bacteriological or histological examination unknown (at present)
+Tuberculosis of lung, infiltrative, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of lung, infiltrative, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of lung, infiltrative, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of lung, infiltrative, tubercle bacilli not found bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of lung, nodular, unspecified
+Tuberculosis of lung, nodular, bacteriological or histological examination not done
+Tuberculosis of lung, nodular, bacteriological or histological examination unknown (at present)
+Tuberculosis of lung, nodular, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of lung, nodular, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of lung, nodular, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of lung, nodular, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of lung with cavitation, unspecified
+Tuberculosis of lung with cavitation, bacteriological or histological examination not done
+Tuberculosis of lung with cavitation, bacteriological or histological examination unknown (at present)
+Tuberculosis of lung with cavitation, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of lung with cavitation, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of lung with cavitation, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of lung with cavitation, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of bronchus, unspecified
+Tuberculosis of bronchus, bacteriological or histological examination not done
+Tuberculosis of bronchus, bacteriological or histological examination unknown (at present)
+Tuberculosis of bronchus, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of bronchus, tubercle bacilli not found (in sputum) by microscopy, but found in bacterial culture
+Tuberculosis of bronchus, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of bronchus, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculous fibrosis of lung, unspecified
+Tuberculous fibrosis of lung, bacteriological or histological examination not done
+Tuberculous fibrosis of lung, bacteriological or histological examination unknown (at present)
+Tuberculous fibrosis of lung, tubercle bacilli found (in sputum) by microscopy
+Tuberculous fibrosis of lung, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculous fibrosis of lung, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculous fibrosis of lung, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculous bronchiectasis, unspecified
+Tuberculous bronchiectasis, bacteriological or histological examination not done
+Tuberculous bronchiectasis, bacteriological or histological examination unknown (at present)
+Tuberculous bronchiectasis, tubercle bacilli found (in sputum) by microscopy
+Tuberculous bronchiectasis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculous bronchiectasis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculous bronchiectasis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculous pneumonia [any form], unspecified
+Tuberculous pneumonia [any form], bacteriological or histological examination not done
+Tuberculous pneumonia [any form], bacteriological or histological examination unknown (at present)
+Tuberculous pneumonia [any form], tubercle bacilli found (in sputum) by microscopy
+Tuberculous pneumonia [any form], tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculous pneumonia [any form], tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculous pneumonia [any form], tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculous pneumothorax, unspecified
+Tuberculous pneumothorax, bacteriological or histological examination not done
+Tuberculous pneumothorax, bacteriological or histological examination unknown (at present)
+Tuberculous pneumothorax, tubercle bacilli found (in sputum) by microscopy
+Tuberculous pneumothorax, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculous pneumothorax, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculous pneumothorax, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Other specified pulmonary tuberculosis, unspecified
+Other specified pulmonary tuberculosis, bacteriological or histological examination not done
+Other specified pulmonary tuberculosis, bacteriological or histological examination unknown (at present)
+Other specified pulmonary tuberculosis, tubercle bacilli found (in sputum) by microscopy
+Other specified pulmonary tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Other specified pulmonary tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Other specified pulmonary tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Pulmonary tuberculosis, unspecified, unspecified
+Pulmonary tuberculosis, unspecified, bacteriological or histological examination not done
+Pulmonary tuberculosis, unspecified, bacteriological or histological examination unknown (at present)
+Pulmonary tuberculosis, unspecified, tubercle bacilli found (in sputum) by microscopy
+Pulmonary tuberculosis, unspecified, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Pulmonary tuberculosis, unspecified, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Pulmonary tuberculosis, unspecified, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculous pleurisy, unspecified
+Tuberculous pleurisy, bacteriological or histological examination not done
+Tuberculous pleurisy, bacteriological or histological examination unknown (at present)
+Tuberculous pleurisy, tubercle bacilli found (in sputum) by microscopy
+Tuberculous pleurisy, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculous pleurisy, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculous pleurisy, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of intrathoracic lymph nodes, unspecified
+Tuberculosis of intrathoracic lymph nodes, bacteriological or histological examination not done
+Tuberculosis of intrathoracic lymph nodes, bacteriological or histological examination unknown (at present)
+Tuberculosis of intrathoracic lymph nodes, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of intrathoracic lymph nodes, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of intrathoracic lymph nodes, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of intrathoracic lymph nodes, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Isolated tracheal or bronchial tuberculosis, unspecified
+Isolated tracheal or bronchial tuberculosis, bacteriological or histological examination not done
+Isolated tracheal or bronchial tuberculosis, bacteriological or histological examination unknown (at present)
+Isolated tracheal or bronchial tuberculosis, tubercle bacilli found (in sputum) by microscopy
+Isolated tracheal or bronchial tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Isolated tracheal or bronchial tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Isolated tracheal or bronchial tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculous laryngitis, unspecified
+Tuberculous laryngitis, bacteriological or histological examination not done
+Tuberculous laryngitis, bacteriological or histological examination unknown (at present)
+Tuberculous laryngitis, tubercle bacilli found (in sputum) by microscopy
+Tuberculous laryngitis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculous laryngitis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculous laryngitis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Other specified respiratory tuberculosis, unspecified
+Other specified respiratory tuberculosis, bacteriological or histological examination not done
+Other specified respiratory tuberculosis, bacteriological or histological examination unknown (at present)
+Other specified respiratory tuberculosis, tubercle bacilli found (in sputum) by microscopy
+Other specified respiratory tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Other specified respiratory tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Other specified respiratory tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculous meningitis, unspecified
+Tuberculous meningitis, bacteriological or histological examination not done
+Tuberculous meningitis, bacteriological or histological examination unknown (at present)
+Tuberculous meningitis, tubercle bacilli found (in sputum) by microscopy
+Tuberculous meningitis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculous meningitis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculous meningitis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculoma of meninges, unspecified
+Tuberculoma of meninges, bacteriological or histological examination not done
+Tuberculoma of meninges, bacteriological or histological examination unknown (at present)
+Tuberculoma of meninges, tubercle bacilli found (in sputum) by microscopy
+Tuberculoma of meninges, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculoma of meninges, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculoma of meninges, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculoma of brain, unspecified
+Tuberculoma of brain, bacteriological or histological examination not done
+Tuberculoma of brain, bacteriological or histological examination unknown (at present)
+Tuberculoma of brain, tubercle bacilli found (in sputum) by microscopy
+Tuberculoma of brain, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculoma of brain, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculoma of brain, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculous abscess of brain, unspecified
+Tuberculous abscess of brain, bacteriological or histological examination not done
+Tuberculous abscess of brain, bacteriological or histological examination unknown (at present)
+Tuberculous abscess of brain, tubercle bacilli found (in sputum) by microscopy
+Tuberculous abscess of brain, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculous abscess of brain, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculous abscess of brain, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculoma of spinal cord, unspecified
+Tuberculoma of spinal cord, bacteriological or histological examination not done
+Tuberculoma of spinal cord, bacteriological or histological examination unknown (at present)
+Tuberculoma of spinal cord, tubercle bacilli found (in sputum) by microscopy
+Tuberculoma of spinal cord, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculoma of spinal cord, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculoma of spinal cord, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculous abscess of spinal cord, unspecified
+Tuberculous abscess of spinal cord, bacteriological or histological examination not done
+Tuberculous abscess of spinal cord, bacteriological or histological examination unknown (at present)
+Tuberculous abscess of spinal cord, tubercle bacilli found (in sputum) by microscopy
+Tuberculous abscess of spinal cord, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculous abscess of spinal cord, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculous abscess of spinal cord, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculous encephalitis or myelitis, unspecified
+Tuberculous encephalitis or myelitis, bacteriological or histological examination not done
+Tuberculous encephalitis or myelitis, bacteriological or histological examination unknown (at present)
+Tuberculous encephalitis or myelitis, tubercle bacilli found (in sputum) by microscopy
+Tuberculous encephalitis or myelitis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculous encephalitis or myelitis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculous encephalitis or myelitis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Other specified tuberculosis of central nervous system, unspecified
+Other specified tuberculosis of central nervous system, bacteriological or histological examination not done
+Other specified tuberculosis of central nervous system, bacteriological or histological examination unknown (at present)
+Other specified tuberculosis of central nervous system, tubercle bacilli found (in sputum) by microscopy
+Other specified tuberculosis of central nervous system, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Other specified tuberculosis of central nervous system, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Other specified tuberculosis of central nervous system, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Unspecified tuberculosis of central nervous system, unspecified
+Unspecified tuberculosis of central nervous system, bacteriological or histological examination not done
+Unspecified tuberculosis of central nervous system, bacteriological or histological examination unknown (at present)
+Unspecified tuberculosis of central nervous system, tubercle bacilli found (in sputum) by microscopy
+Unspecified tuberculosis of central nervous system, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Unspecified tuberculosis of central nervous system, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Unspecified tuberculosis of central nervous system, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculous peritonitis, unspecified
+Tuberculous peritonitis, bacteriological or histological examination not done
+Tuberculous peritonitis, bacteriological or histological examination unknown (at present)
+Tuberculous peritonitis, tubercle bacilli found (in sputum) by microscopy
+Tuberculous peritonitis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculous peritonitis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculous peritonitis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Other tuberculosis of intestines, peritoneum, and mesenteric glands, unspecified
+Other tuberculosis of intestines, peritoneum, and mesenteric glands, bacteriological or histological examination not done
+Other tuberculosis of intestines, peritoneum, and mesenteric glands, bacteriological or histological examination unknown (at present)
+Other tuberculosis of intestines, peritoneum, and mesenteric glands, tubercle bacilli found (in sputum) by microscopy
+Other tuberculosis of intestines, peritoneum, and mesenteric glands, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Other tuberculosis of intestines, peritoneum, and mesenteric glands, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Other tuberculosis of intestines, peritoneum, and mesenteric glands, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of vertebral column, unspecified
+Tuberculosis of vertebral column, bacteriological or histological examination not done
+Tuberculosis of vertebral column, bacteriological or histological examination unknown (at present)
+Tuberculosis of vertebral column, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of vertebral column, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of vertebral column, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of vertebral column, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of hip, unspecified
+Tuberculosis of hip, bacteriological or histological examination not done
+Tuberculosis of hip, bacteriological or histological examination unknown (at present)
+Tuberculosis of hip, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of hip, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of hip, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of hip, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of knee, unspecified
+Tuberculosis of knee, bacteriological or histological examination not done
+Tuberculosis of knee, bacteriological or histological examination unknown (at present)
+Tuberculosis of knee, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of knee, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of knee, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of knee, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of limb bones, unspecified
+Tuberculosis of limb bones, bacteriological or histological examination not done
+Tuberculosis of limb bones, bacteriological or histological examination unknown (at present)
+Tuberculosis of limb bones, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of limb bones, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of limb bones, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of limb bones, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of mastoid, unspecified
+Tuberculosis of mastoid, bacteriological or histological examination not done
+Tuberculosis of mastoid, bacteriological or histological examination unknown (at present)
+Tuberculosis of mastoid, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of mastoid, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of mastoid, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of mastoid, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of other specified bone, unspecified
+Tuberculosis of other specified bone, bacteriological or histological examination not done
+Tuberculosis of other specified bone, bacteriological or histological examination unknown (at present)
+Tuberculosis of other specified bone, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of other specified bone, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of other specified bone, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of other specified bone, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of other specified joint, unspecified
+Tuberculosis of other specified joint, bacteriological or histological examination not done
+Tuberculosis of other specified joint, bacteriological or histological examination unknown (at present)
+Tuberculosis of other specified joint, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of other specified joint, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of other specified joint, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of other specified joint, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of unspecified bones and joints, unspecified
+Tuberculosis of unspecified bones and joints, bacteriological or histological examination not done
+Tuberculosis of unspecified bones and joints, bacteriological or histological examination unknown (at present)
+Tuberculosis of unspecified bones and joints, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of unspecified bones and joints, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of unspecified bones and joints, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of unspecified bones and joints, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of kidney, unspecified
+Tuberculosis of kidney, bacteriological or histological examination not done
+Tuberculosis of kidney, bacteriological or histological examination unknown (at present)
+Tuberculosis of kidney, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of kidney, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of kidney, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of kidney, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of bladder, unspecified
+Tuberculosis of bladder, bacteriological or histological examination not done
+Tuberculosis of bladder, bacteriological or histological examination unknown (at present)
+Tuberculosis of bladder, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of bladder, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of bladder, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of bladder, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of ureter, unspecified
+Tuberculosis of ureter, bacteriological or histological examination not done
+Tuberculosis of ureter, bacteriological or histological examination unknown (at present)
+Tuberculosis of ureter, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of ureter, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of ureter, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of ureter, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of other urinary organs, unspecified
+Tuberculosis of other urinary organs, bacteriological or histological examination not done
+Tuberculosis of other urinary organs, bacteriological or histological examination unknown (at present)
+Tuberculosis of other urinary organs, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of other urinary organs, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of other urinary organs, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of other urinary organs, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of epididymis, unspecified
+Tuberculosis of epididymis, bacteriological or histological examination not done
+Tuberculosis of epididymis, bacteriological or histological examination unknown (at present)
+Tuberculosis of epididymis, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of epididymis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of epididymis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of epididymis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of other male genital organs, unspecified
+Tuberculosis of other male genital organs, bacteriological or histological examination not done
+Tuberculosis of other male genital organs, bacteriological or histological examination unknown (at present)
+Tuberculosis of other male genital organs, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of other male genital organs, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of other male genital organs, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of other male genital organs, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculous oophoritis and salpingitis, unspecified
+Tuberculous oophoritis and salpingitis, bacteriological or histological examination not done
+Tuberculous oophoritis and salpingitis, bacteriological or histological examination unknown (at present)
+Tuberculous oophoritis and salpingitis, tubercle bacilli found (in sputum) by microscopy
+Tuberculous oophoritis and salpingitis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculous oophoritis and salpingitis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculous oophoritis and salpingitis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of other female genital organs, unspecified
+Tuberculosis of other female genital organs, bacteriological or histological examination not done
+Tuberculosis of other female genital organs, bacteriological or histological examination unknown (at present)
+Tuberculosis of other female genital organs, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of other female genital organs, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of other female genital organs, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of other female genital organs, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Genitourinary tuberculosis, unspecified, unspecified
+Genitourinary tuberculosis, unspecified, bacteriological or histological examination not done
+Genitourinary tuberculosis, unspecified, bacteriological or histological examination unknown (at present)
+Genitourinary tuberculosis, unspecified, tubercle bacilli found (in sputum) by microscopy
+Genitourinary tuberculosis, unspecified, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Genitourinary tuberculosis, unspecified, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Genitourinary tuberculosis, unspecified, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of skin and subcutaneous cellular tissue, unspecified
+Tuberculosis of skin and subcutaneous cellular tissue, bacteriological or histological examination not done
+Tuberculosis of skin and subcutaneous cellular tissue, bacteriological or histological examination unknown (at present)
+Tuberculosis of skin and subcutaneous cellular tissue, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of skin and subcutaneous cellular tissue, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of skin and subcutaneous cellular tissue, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of skin and subcutaneous cellular tissue, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Erythema nodosum with hypersensitivity reaction in tuberculosis, unspecified
+Erythema nodosum with hypersensitivity reaction in tuberculosis, bacteriological or histological examination not done
+Erythema nodosum with hypersensitivity reaction in tuberculosis, bacteriological or histological examination unknown (at present)
+Erythema nodosum with hypersensitivity reaction in tuberculosis, tubercle bacilli found (in sputum) by microscopy
+Erythema nodosum with hypersensitivity reaction in tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Erythema nodosum with hypersensitivity reaction in tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Erythema nodosum with hypersensitivity reaction in tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of peripheral lymph nodes, unspecified
+Tuberculosis of peripheral lymph nodes, bacteriological or histological examination not done
+Tuberculosis of peripheral lymph nodes, bacteriological or histological examination unknown (at present)
+Tuberculosis of peripheral lymph nodes, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of peripheral lymph nodes, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of peripheral lymph nodes, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of peripheral lymph nodes, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of eye, unspecified
+Tuberculosis of eye, bacteriological or histological examination not done
+Tuberculosis of eye, bacteriological or histological examination unknown (at present)
+Tuberculosis of eye, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of eye, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of eye, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of eye, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of ear, unspecified
+Tuberculosis of ear, bacteriological or histological examination not done
+Tuberculosis of ear, bacteriological or histological examination unknown (at present)
+Tuberculosis of ear, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of ear, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of ear, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of ear, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of thyroid gland, unspecified
+Tuberculosis of thyroid gland, bacteriological or histological examination not done
+Tuberculosis of thyroid gland, bacteriological or histological examination unknown (at present)
+Tuberculosis of thyroid gland, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of thyroid gland, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of thyroid gland, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of thyroid gland, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of adrenal glands, unspecified
+Tuberculosis of adrenal glands, bacteriological or histological examination not done
+Tuberculosis of adrenal glands, bacteriological or histological examination unknown (at present)
+Tuberculosis of adrenal glands, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of adrenal glands, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of adrenal glands, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of adrenal glands, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of spleen, unspecified
+Tuberculosis of spleen, bacteriological or histological examination not done
+Tuberculosis of spleen, bacteriological or histological examination unknown (at present)
+Tuberculosis of spleen, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of spleen, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of spleen, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of spleen, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of esophagus, unspecified
+Tuberculosis of esophagus, bacteriological or histological examination not done
+Tuberculosis of esophagus, bacteriological or histological examination unknown (at present)
+Tuberculosis of esophagus, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of esophagus, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of esophagus, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of esophagus, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Tuberculosis of other specified organs, unspecified
+Tuberculosis of other specified organs, bacteriological or histological examination not done
+Tuberculosis of other specified organs, bacteriological or histological examination unknown (at present)
+Tuberculosis of other specified organs, tubercle bacilli found (in sputum) by microscopy
+Tuberculosis of other specified organs, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Tuberculosis of other specified organs, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Tuberculosis of other specified organs, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Acute miliary tuberculosis, unspecified
+Acute miliary tuberculosis, bacteriological or histological examination not done
+Acute miliary tuberculosis, bacteriological or histological examination unknown (at present)
+Acute miliary tuberculosis, tubercle bacilli found (in sputum) by microscopy
+Acute miliary tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Acute miliary tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Acute miliary tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Other specified miliary tuberculosis, unspecified
+Other specified miliary tuberculosis, bacteriological or histological examination not done
+Other specified miliary tuberculosis, bacteriological or histological examination unknown (at present)
+Other specified miliary tuberculosis, tubercle bacilli found (in sputum) by microscopy
+Other specified miliary tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Other specified miliary tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Other specified miliary tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Miliary tuberculosis, unspecified, unspecified
+Miliary tuberculosis, unspecified, bacteriological or histological examination not done
+Miliary tuberculosis, unspecified, bacteriological or histological examination unknown (at present)
+Miliary tuberculosis, unspecified, tubercle bacilli found (in sputum) by microscopy
+Miliary tuberculosis, unspecified, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture
+Miliary tuberculosis, unspecified, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically
+Miliary tuberculosis, unspecified, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]
+Bubonic plague
+Cellulocutaneous plague
+Septicemic plague
+Primary pneumonic plague
+Secondary pneumonic plague
+Pneumonic plague, unspecified
+Other specified types of plague
+Plague, unspecified
+Ulceroglandular tularemia
+Enteric tularemia
+Pulmonary tularemia
+Oculoglandular tularemia
+Other specified tularemia
+Unspecified tularemia
+Cutaneous anthrax
+Pulmonary anthrax
+Gastrointestinal anthrax
+Anthrax septicemia
+Other specified manifestations of anthrax
+Anthrax, unspecified
+Brucella melitensis
+Brucella abortus
+Brucella suis
+Brucella canis
+Other brucellosis
+Brucellosis, unspecified
+Glanders
+Melioidosis
+Spirillary fever
+Streptobacillary fever
+Unspecified rat-bite fever
+Listeriosis
+Erysipelothrix infection
+Pasteurellosis
+Other specified zoonotic bacterial diseases
+Unspecified zoonotic bacterial disease
+Lepromatous leprosy [type L]
+Tuberculoid leprosy [type T]
+Indeterminate leprosy [group I]
+Borderline leprosy [group B]
+Other specified leprosy
+Leprosy, unspecified
+Pulmonary diseases due to other mycobacteria
+Cutaneous diseases due to other mycobacteria
+Disseminated due to other mycobacteria
+Other specified mycobacterial diseases
+Unspecified diseases due to mycobacteria
+Faucial diphtheria
+Nasopharyngeal diphtheria
+Anterior nasal diphtheria
+Laryngeal diphtheria
+Conjunctival diphtheria
+Diphtheritic myocarditis
+Diphtheritic peritonitis
+Diphtheritic cystitis
+Cutaneous diphtheria
+Other specified diphtheria
+Diphtheria, unspecified
+Whooping cough due to bordetella pertussis [B. pertussis]
+Whooping cough due to bordetella parapertussis [B. parapertussis]
+Whooping cough due to other specified organism
+Whooping cough, unspecified organism
+Streptococcal sore throat
+Scarlet fever
+Erysipelas
+Meningococcal meningitis
+Meningococcal encephalitis
+Meningococcemia
+Waterhouse-Friderichsen syndrome, meningococcal
+Meningococcal carditis, unspecified
+Meningococcal pericarditis
+Meningococcal endocarditis
+Meningococcal myocarditis
+Meningococcal optic neuritis
+Meningococcal arthropathy
+Other specified meningococcal infections
+Meningococcal infection, unspecified
+Tetanus
+Streptococcal septicemia
+Staphylococcal septicemia, unspecified
+Methicillin susceptible Staphylococcus aureus septicemia
+Methicillin resistant Staphylococcus aureus septicemia
+Other staphylococcal septicemia
+Pneumococcal septicemia [Streptococcus pneumoniae septicemia]
+Septicemia due to anaerobes
+Septicemia due to gram-negative organism, unspecified
+Septicemia due to hemophilus influenzae [H. influenzae]
+Septicemia due to escherichia coli [E. coli]
+Septicemia due to pseudomonas
+Septicemia due to serratia
+Other septicemia due to gram-negative organisms
+Other specified septicemias
+Unspecified septicemia
+Cutaneous actinomycotic infection
+Pulmonary actinomycotic infection
+Abdominal actinomycotic infection
+Cervicofacial actinomycotic infection
+Madura foot
+Actinomycotic infection of other specified sites
+Actinomycotic infection of unspecified site
+Gas gangrene
+Rhinoscleroma
+Whipple's disease
+Necrobacillosis
+Infant botulism
+Wound botulism
+Tropical pyomyositis
+Toxic shock syndrome
+Other specified bacterial diseases
+Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, unspecified
+Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group A
+Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group B
+Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group C
+Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group D [Enterococcus]
+Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group G
+Streptococcus infection in conditions classified elsewhere and of unspecified site, other streptococcus
+Staphylococcus infection in conditions classified elsewhere and of unspecified site, staphylococcus, unspecified
+Methicillin susceptible Staphylococcus aureus in conditions classified elsewhere and of unspecified site
+Methicillin resistant Staphylococcus aureus in conditions classified elsewhere and of unspecified site
+Staphylococcus infection in conditions classified elsewhere and of unspecified site, other staphylococcus
+Pneumococcus infection in conditions classified elsewhere and of unspecified site
+Friedländer's bacillus infection in conditions classified elsewhere and of unspecified site
+Shiga toxin-producing Escherichia coli [E. coli] (STEC) O157
+Other specified Shiga toxin-producing Escherichia coli [E. coli] (STEC)
+Shiga toxin-producing Escherichia coli [E. coli] (STEC), unspecified
+Other and unspecified Escherichia coli [E. coli]
+Hemophilus influenzae [H. influenzae] infection in conditions classified elsewhere and of unspecified site
+Proteus (mirabilis) (morganii) infection in conditions classified elsewhere and of unspecified site
+Pseudomonas infection in conditions classified elsewhere and of unspecified site
+Other specified bacterial infections in conditions classified elsewhere and of unspecified site, mycoplasma
+Bacteroides fragilis
+Other specified bacterial infections in conditions classified elsewhere and of unspecified site, Clostridium perfringens
+Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other anaerobes
+Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other gram-negative organisms
+Helicobacter pylori [H. pylori]
+Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other specified bacteria
+Bacterial infection, unspecified, in conditions classified elsewhere and of unspecified site
+Human immunodeficiency virus [HIV] disease
+Acute paralytic poliomyelitis specified as bulbar, poliovirus, unspecified type
+Acute paralytic poliomyelitis specified as bulbar, poliovirus type I
+Acute paralytic poliomyelitis specified as bulbar, poliovirus type II
+Acute paralytic poliomyelitis specified as bulbar, poliovirus type III
+Acute poliomyelitis with other paralysis, poliovirus, unspecified type
+Acute poliomyelitis with other paralysis, poliovirus type I
+Acute poliomyelitis with other paralysis, poliovirus type II
+Acute poliomyelitis with other paralysis, poliovirus type III
+Acute nonparalytic poliomyelitis, poliovirus, unspecified type
+Acute nonparalytic poliomyelitis, poliovirus type I
+Acute nonparalytic poliomyelitis, poliovirus type II
+Acute nonparalytic poliomyelitis, poliovirus type III
+Acute poliomyelitis, unspecified, poliovirus, unspecified type
+Acute poliomyelitis, unspecified, poliovirus type I
+Acute poliomyelitis, unspecified, poliovirus type II
+Acute poliomyelitis, unspecified, poliovirus type III
+Kuru
+Variant Creutzfeldt-Jakob disease
+Other and unspecified Creutzfeldt-Jakob disease
+Subacute sclerosing panencephalitis
+Progressive multifocal leukoencephalopathy
+Gerstmann-Sträussler-Scheinker syndrome
+Fatal familial insomnia
+Other and unspecified prion disease of central nervous system
+Other specified slow virus infection of central nervous system
+Unspecified slow virus infection of central nervous system
+Meningitis due to coxsackie virus
+Meningitis due to echo virus
+Other specified viral meningitis
+Unspecified viral meningitis
+Other enterovirus diseases of central nervous system
+Lymphocytic choriomeningitis
+Meningitis due to adenovirus
+Other specified non-arthropod-borne viral diseases of central nervous system
+Unspecified non-arthropod-borne viral diseases of central nervous system
+Variola major
+Alastrim
+Modified smallpox
+Smallpox, unspecified
+Cowpox
+Vaccinia not from vaccination
+Pseudocowpox
+Contagious pustular dermatitis
+Paravaccinia, unspecified
+Postvaricella encephalitis
+Varicella (hemorrhagic) pneumonitis
+Postvaricella myelitis
+Chickenpox with other specified complications
+Chickenpox with unspecified complication
+Varicella without mention of complication
+Herpes zoster with meningitis
+Herpes zoster with unspecified nervous system complication
+Geniculate herpes zoster
+Postherpetic trigeminal neuralgia
+Postherpetic polyneuropathy
+Herpes zoster myelitis
+Herpes zoster with other nervous system complications
+Herpes zoster dermatitis of eyelid
+Herpes zoster keratoconjunctivitis
+Herpes zoster iridocyclitis
+Herpes zoster with other ophthalmic complications
+Otitis externa due to herpes zoster
+Herpes zoster with other specified complications
+Herpes zoster with unspecified complication
+Herpes zoster without mention of complication
+Eczema herpeticum
+Genital herpes, unspecified
+Herpetic vulvovaginitis
+Herpetic ulceration of vulva
+Herpetic infection of penis
+Other genital herpes
+Herpetic gingivostomatitis
+Herpetic meningoencephalitis
+Herpes simplex with unspecified ophthalmic complication
+Herpes simplex dermatitis of eyelid
+Dendritic keratitis
+Herpes simplex disciform keratitis
+Herpes simplex iridocyclitis
+Herpes simplex with other ophthalmic complications
+Herpetic septicemia
+Herpetic whitlow
+Visceral herpes simplex
+Herpes simplex meningitis
+Herpes simplex otitis externa
+Herpes simplex myelitis
+Herpes simplex with other specified complications
+Herpes simplex with unspecified complication
+Herpes simplex without mention of complication
+Postmeasles encephalitis
+Postmeasles pneumonia
+Postmeasles otitis media
+Measles keratoconjunctivitis
+Measles with other specified complications
+Measles with unspecified complication
+Measles without mention of complication
+Rubella with unspecified neurological complication
+Encephalomyelitis due to rubella
+Rubella with other neurological complications
+Arthritis due to rubella
+Rubella with other specified complications
+Rubella with unspecified complications
+Rubella without mention of complication
+Erythema infectiosum (fifth disease)
+Other specified viral exanthemata
+Viral exanthem, unspecified
+Roseola infantum, unspecified
+Roseola infantum due to human herpesvirus 6
+Roseola infantum due to human herpesvirus 7
+Human herpesvirus 6 encephalitis
+Other human herpesvirus encephalitis
+Human herpesvirus 6 infection
+Human herpesvirus 7 infection
+Other human herpesvirus infection
+Orthopoxvirus infection, unspecified
+Monkeypox
+Other orthopoxvirus infections
+Parapoxvirus infection, unspecified
+Bovine stomatitis
+Sealpox
+Other parapoxvirus infections
+Yatapoxvirus infection, unspecified
+Tanapox
+Yaba monkey tumor virus
+Other poxvirus infections
+Poxvirus infections, unspecified
+Sylvatic yellow fever
+Urban yellow fever
+Yellow fever, unspecified
+Dengue
+Japanese encephalitis
+Western equine encephalitis
+Eastern equine encephalitis
+St Louis encephalitis
+Australian encephalitis
+California virus encephalitis
+Other specified mosquito-borne viral encephalitis
+Mosquito-borne viral encephalitis, unspecified
+Russian spring-summer [taiga] encephalitis
+Louping ill
+Central european encephalitis
+Other specified tick-borne viral encephalitis
+Tick-borne viral encephalitis, unspecified
+Viral encephalitis transmitted by other and unspecified arthropods
+Crimean hemorrhagic fever [CHF Congo virus]
+Omsk hemorrhagic fever
+Kyasanur forest disease
+Other tick-borne hemorrhagic fever
+Mosquito-borne hemorrhagic fever
+Other specified arthropod-borne hemorrhagic fever
+Arthropod-borne hemorrhagic fever, unspecified
+Phlebotomus fever
+Tick-borne fever
+Venezuelan equine fever
+Other mosquito-borne fever
+West Nile Fever, unspecified
+West Nile Fever with encephalitis
+West Nile Fever with other neurologic manifestation
+West Nile Fever with other complications
+Other specified arthropod-borne viral diseases
+Arthropod-borne viral disease, unspecified
+Viral hepatitis A with hepatic coma
+Viral hepatitis A without mention of hepatic coma
+Viral hepatitis B with hepatic coma, acute or unspecified, without mention of hepatitis delta
+Viral hepatitis B with hepatic coma, acute or unspecified, with hepatitis delta
+Chronic viral hepatitis B with hepatic coma without hepatitis delta
+Chronic viral hepatitis B with hepatic coma with hepatitis delta
+Viral hepatitis B without mention of hepatic coma, acute or unspecified, without mention of hepatitis delta
+Viral hepatitis B without mention of hepatic coma, acute or unspecified, with hepatitis delta
+Chronic viral hepatitis B without mention of hepatic coma without mention of hepatitis delta
+Chronic viral hepatitis B without mention of hepatic coma with hepatitis delta
+Acute hepatitis C with hepatic coma
+Hepatitis delta without mention of active hepatitis B disease with hepatic coma
+Hepatitis E with hepatic coma
+Chronic hepatitis C with hepatic coma
+Other specified viral hepatitis with hepatic coma
+Acute hepatitis C without mention of hepatic coma
+Hepatitis delta without mention of active hepatitis B disease or hepatic coma
+Hepatitis E without mention of hepatic coma
+Chronic hepatitis C without mention of hepatic coma
+Other specified viral hepatitis without mention of hepatic coma
+Unspecified viral hepatitis with hepatic coma
+Unspecified viral hepatitis C without hepatic coma
+Unspecified viral hepatitis C with hepatic coma
+Unspecified viral hepatitis without mention of hepatic coma
+Rabies
+Mumps orchitis
+Mumps meningitis
+Mumps encephalitis
+Mumps pancreatitis
+Mumps hepatitis
+Mumps polyneuropathy
+Other mumps with other specified complications
+Mumps with unspecified complication
+Mumps without mention of complication
+Ornithosis with pneumonia
+Ornithosis with other specified complications
+Ornithosis with unspecified complication
+Ornithosis, unspecified
+Herpangina
+Epidemic pleurodynia
+Coxsackie carditis, unspecified
+Coxsackie pericarditis
+Coxsackie endocarditis
+Coxsackie myocarditis
+Hand, foot, and mouth disease
+Other specified diseases due to Coxsackie virus
+Infectious mononucleosis
+Trachoma, initial stage
+Trachoma, active stage
+Trachoma, unspecified
+Inclusion conjunctivitis
+Epidemic keratoconjunctivitis
+Pharyngoconjunctival fever
+Other adenoviral conjunctivitis
+Epidemic hemorrhagic conjunctivitis
+Other viral conjunctivitis
+Unspecified diseases of conjunctiva due to chlamydiae
+Unspecified diseases of conjunctiva due to viruses
+Molluscum contagiosum
+Viral warts, unspecified
+Condyloma acuminatum
+Plantar wart
+Other specified viral warts
+Sweating fever
+Cat-scratch disease
+Foot and mouth disease
+Cytomegaloviral disease
+Hemorrhagic nephrosonephritis
+Arenaviral hemorrhagic fever
+Epidemic vertigo
+Epidemic vomiting syndrome
+Other specified diseases due to chlamydiae
+Other specified diseases due to viruses
+Adenovirus infection in conditions classified elsewhere and of unspecified site
+Echo virus infection in conditions classified elsewhere and of unspecified site
+Coxsackie virus infection in conditions classified elsewhere and of unspecified site
+Rhinovirus infection in conditions classified elsewhere and of unspecified site
+Human papillomavirus in conditions classified elsewhere and of unspecified site
+Retrovirus, unspecified
+Human T-cell lymphotrophic virus, type I [HTLV-I]
+Human T-cell lymphotrophic virus, type II [HTLV-II]
+Human immunodeficiency virus, type 2 [HIV-2]
+Other specified retrovirus
+Respiratory syncytial virus (RSV)
+Hantavirus infection
+SARS-associated coronavirus
+Parvovirus B19
+Other specified chlamydial infection
+Other specified viral infection
+Unspecified chlamydial infection
+Unspecified viral infection
+Louse-borne (epidemic) typhus
+Murine (endemic) typhus
+Brill's disease
+Scrub typhus
+Typhus, unspecified
+Spotted fevers
+Boutonneuse fever
+North Asian tick fever
+Queensland tick typhus
+Ehrlichiosis, unspecified
+Ehrlichiosis chafeensis [E. chafeensis]
+Other ehrlichiosis
+Other specified tick-borne rickettsioses
+Tick-borne rickettsiosis, unspecified
+Q fever
+Trench fever
+Rickettsialpox
+Other specified rickettsioses
+Rickettsiosis, unspecified
+Falciparum malaria [malignant tertian]
+Vivax malaria [benign tertian]
+Quartan malaria
+Ovale malaria
+Other malaria
+Mixed malaria
+Malaria, unspecified
+Induced malaria
+Blackwater fever
+Other pernicious complications of malaria
+Visceral [kala-azar] leishmaniasis
+Cutaneous leishmaniasis, urban
+Cutaneous leishmaniasis, Asian desert
+Cutaneous leishmaniasis, Ethiopian
+Cutaneous leishmaniasis, American
+Mucocutaneous leishmaniasis, (American)
+Leishmaniasis, unspecified
+Chagas' disease with heart involvement
+Chagas' disease with other organ involvement
+Chagas' disease without mention of organ involvement
+Gambian trypanosomiasis
+Rhodesian trypanosomiasis
+African trypanosomiasis, unspecified
+Trypanosomiasis, unspecified
+Relapsing fever, louse-borne
+Relapsing fever, tick-borne
+Relapsing fever, unspecified
+Bartonellosis
+Lyme Disease
+Babesiosis
+Other specified arthropod-borne diseases, other
+Arthropod-borne disease, unspecified
+Early congenital syphilis, symptomatic
+Early congenital syphilis, latent
+Early congenital syphilis, unspecified
+Syphilitic interstitial keratitis
+Juvenile neurosyphilis, unspecified
+Congenital syphilitic encephalitis
+Congenital syphilitic meningitis
+Other juvenile neurosyphilis
+Other late congenital syphilis, symptomatic
+Late congenital syphilis, latent
+Late congenital syphilis, unspecified
+Congenital syphilis, unspecified
+Genital syphilis (primary)
+Primary anal syphilis
+Other primary syphilis
+Secondary syphilis of skin or mucous membranes
+Adenopathy due to secondary syphilis
+Syphilitic uveitis, unspecified
+Syphilitic chorioretinitis (secondary)
+Syphilitic iridocyclitis (secondary)
+Secondary syphilitic periostitis
+Secondary syphilitic hepatitis
+Secondary syphilis of other viscera
+Secondary syphilis, relapse
+Acute syphilitic meningitis (secondary)
+Syphilitic alopecia
+Other forms of secondary syphilis
+Unspecified secondary syphilis
+Early syphilis, latent, serological relapse after treatment
+Early syphilis, latent, unspecified
+Aneurysm of aorta, specified as syphilitic
+Syphilitic aortitis
+Syphilitic endocarditis of valve, unspecified
+Syphilitic endocarditis of mitral valve
+Syphilitic endocarditis of aortic valve
+Syphilitic endocarditis of tricuspid valve
+Syphilitic endocarditis of pulmonary valve
+Syphilitic pericarditis
+Syphilitic myocarditis
+Other specified cardiovascular syphilis
+Cardiovascular syphilis, unspecified
+Tabes dorsalis
+General paresis
+Syphilitic meningitis
+Asymptomatic neurosyphilis
+Syphilitic encephalitis
+Syphilitic parkinsonism
+Syphilitic disseminated retinochoroiditis
+Syphilitic optic atrophy
+Syphilitic retrobulbar neuritis
+Syphilitic acoustic neuritis
+Syphilitic ruptured cerebral aneurysm
+Other specified neurosyphilis
+Neurosyphilis, unspecified
+Syphilitic episcleritis
+Syphilis of lung
+Syphilitic peritonitis
+Syphilis of liver
+Syphilis of kidney
+Syphilis of bone
+Syphilis of muscle
+Syphilis of synovium, tendon, and bursa
+Other specified forms of late symptomatic syphilis
+Late symptomatic syphilis, unspecified
+Late syphilis, latent
+Late syphilis, unspecified
+Latent syphilis, unspecified
+Syphilis, unspecified
+Gonococcal infection (acute) of lower genitourinary tract
+Gonococcal infection (acute) of upper genitourinary tract, site unspecified
+Gonococcal cystitis (acute)
+Gonococcal prostatitis (acute)
+Gonococcal epididymo-orchitis (acute)
+Gonococcal seminal vesiculitis (acute)
+Gonococcal cervicitis (acute)
+Gonococcal endometritis (acute)
+Gonococcal salpingitis, specified as acute
+Other gonococcal infection (acute) of upper genitourinary tract
+Gonococcal infection, chronic, of lower genitourinary tract
+Chronic gonococcal infection of upper genitourinary tract, site unspecified
+Gonococcal cystitis, chronic
+Gonococcal prostatitis, chronic
+Gonococcal epididymo-orchitis, chronic
+Gonococcal seminal vesiculitis, chronic
+Gonococcal cervicitis, chronic
+Gonococcal endometritis, chronic
+Gonococcal salpingitis (chronic)
+Other chronic gonococcal infection of upper genitourinary tract
+Gonococcal conjunctivitis (neonatorum)
+Gonococcal iridocyclitis
+Gonococcal endophthalmia
+Gonococcal keratitis
+Other gonococcal infection of eye
+Gonococcal arthritis
+Gonococcal synovitis and tenosynovitis
+Gonococcal bursitis
+Gonococcal spondylitis
+Other gonococcal infection of joint
+Gonococcal infection of pharynx
+Gonococcal infection of anus and rectum
+Gonococcal keratosis (blennorrhagica)
+Gonococcal meningitis
+Gonococcal pericarditis
+Gonococcal endocarditis
+Other gonococcal heart disease
+Gonococcal peritonitis
+Gonococcal infection of other specified sites
+Chancroid
+Lymphogranuloma venereum
+Granuloma inguinale
+Reiter's disease
+Other nongonococcal urethritis, unspecified
+Other nongonococcal urethritis, chlamydia trachomatis
+Other nongonococcal urethritis, other specified organism
+Other venereal diseases due to chlamydia trachomatis, unspecified site
+Other venereal diseases due to chlamydia trachomatis, pharynx
+Other venereal diseases due to chlamydia trachomatis, anus and rectum
+Other venereal diseases due to chlamydia trachomatis, lower genitourinary sites
+Other venereal diseases due to chlamydia trachomatis, other genitourinary sites
+Other venereal diseases due to chlamydia trachomatis, unspecified genitourinary site
+Other venereal diseases due to chlamydia trachomatis, peritoneum
+Other venereal diseases due to chlamydia trachomatis, other specified site
+Other specified venereal diseases
+Venereal disease, unspecified
+Leptospirosis icterohemorrhagica
+Leptospiral meningitis (aseptic)
+Other specified leptospiral infections
+Leptospirosis, unspecified
+Vincent's angina
+Initial lesions of yaws
+Multiple papillomata due to yaws and wet crab yaws
+Other early skin lesions of yaws
+Hyperkeratosis due to yaws
+Gummata and ulcers due to yaws
+Gangosa
+Bone and joint lesions due to yaws
+Other manifestations of yaws
+Latent yaws
+Yaws, unspecified
+Primary lesions of pinta
+Intermediate lesions of pinta
+Late lesions of pinta
+Mixed lesions of pinta
+Pinta, unspecified
+Nonvenereal endemic syphilis
+Other specified spirochetal infections
+Spirochetal infection, unspecified
+Dermatophytosis of scalp and beard
+Dermatophytosis of nail
+Dermatophytosis of hand
+Dermatophytosis of groin and perianal area
+Dermatophytosis of foot
+Dermatophytosis of the body
+Deep seated dermatophytosis
+Dermatophytosis of other specified sites
+Dermatophytosis of unspecified site
+Pityriasis versicolor
+Tinea nigra
+Tinea blanca
+Black piedra
+Other specified dermatomycoses
+Dermatomycosis, unspecified
+Candidiasis of mouth
+Candidiasis of vulva and vagina
+Candidiasis of other urogenital sites
+Candidiasis of skin and nails
+Candidiasis of lung
+Disseminated candidiasis
+Candidal endocarditis
+Candidal otitis externa
+Candidal meningitis
+Candidal esophagitis
+Candidal enteritis
+Other candidiasis of other specified sites
+Candidiasis of unspecified site
+Primary coccidioidomycosis (pulmonary)
+Primary extrapulmonary coccidioidomycosis
+Coccidioidal meningitis
+Other forms of progressive coccidioidomycosis
+Chronic pulmonary coccidioidomycosis
+Pulmonary coccidioidomycosis, unspecified
+Coccidioidomycosis, unspecified
+Infection by Histoplasma capsulatum, without mention of manifestation
+Infection by Histoplasma capsulatum, meningitis
+Infection by Histoplasma capsulatum, retinitis
+Infection by Histoplasma capsulatum, pericarditis
+Infection by Histoplasma capsulatum, endocarditis
+Infection by Histoplasma capsulatum, pneumonia
+Infection by Histoplasma capsulatum, other
+Infection by Histoplasma duboisii, without mention of manifestation
+Infection by Histoplasma duboisii, meningitis
+Infection by Histoplasma duboisii, retinitis
+Infection by Histoplasma duboisii, pericarditis
+Infection by Histoplasma duboisii, endocarditis
+Infection by Histoplasma duboisii, pneumonia
+Infection by Histoplasma duboisii, other
+Histoplasmosis, unspecified, without mention of manifestation
+Histoplasmosis, unspecified, meningitis
+Histoplasmosis, unspecified, retinitis
+Histoplasmosis, unspecified, pericarditis
+Histoplasmosis, unspecified, endocarditis
+Histoplasmosis, unspecified, pneumonia
+Histoplasmosis, unspecified, other
+Blastomycosis
+Paracoccidioidomycosis
+Lobomycosis
+Rhinosporidiosis
+Sporotrichosis
+Chromoblastomycosis
+Aspergillosis
+Mycotic mycetomas
+Cryptococcosis
+Allescheriosis [Petriellidosis]
+Zygomycosis [Phycomycosis or Mucormycosis]
+Infection by dematiacious fungi [Phaehyphomycosis]
+Other and unspecified mycoses
+Opportunistic mycoses
+Schistosomiasis due to schistosoma haematobium
+Schistosomiasis due to schistosoma mansoni
+Schistosomiasis due to schistosoma japonicum
+Cutaneous schistosomiasis
+Other specified schistosomiasis
+Schistosomiasis, unspecified
+Opisthorchiasis
+Clonorchiasis
+Paragonimiasis
+Fascioliasis
+Fasciolopsiasis
+Metagonimiasis
+Heterophyiasis
+Other specified trematode infections
+Trematode infection, unspecified
+Echinococcus granulosus infection of liver
+Echinococcus granulosus infection of lung
+Echinococcus granulosus infection of thyroid
+Echinococcus granulosus infection, other
+Echinococcus granulosus infection, unspecified
+Echinococcus multilocularis infection of liver
+Echinococcus multilocularis infection, other
+Echinococcus multilocularis infection, unspecified
+Echinococcosis, unspecified, of liver
+Echinococcosis, other and unspecified
+Taenia solium infection, intestinal form
+Cysticercosis
+Taenia saginata infection
+Taeniasis, unspecified
+Diphyllobothriasis, intestinal
+Sparganosis [larval diphyllobothriasis]
+Hymenolepiasis
+Other specified cestode infection
+Cestode infection, unspecified
+Trichinosis
+Bancroftian filariasis
+Malayan filariasis
+Loiasis
+Onchocerciasis
+Dipetalonemiasis
+Mansonella ozzardi infection
+Other specified filariasis
+Dracontiasis
+Unspecified filariasis
+Ancylostomiasis due to ancylostoma duodenale
+Necatoriasis due to necator americanus
+Ancylostomiasis due to ancylostoma braziliense
+Ancylostomiasis due to ancylostoma ceylanicum
+Other specified ancylostoma
+Ancylostomiasis and necatoriasis, unspecified
+Ascariasis
+Anisakiasis
+Strongyloidiasis
+Trichuriasis
+Enterobiasis
+Capillariasis
+Trichostrongyliasis
+Other specified intestinal helminthiasis
+Mixed intestinal helminthiasis
+Intestinal helminthiasis, unspecified
+Toxocariasis
+Gnathostomiasis
+Other specified helminthiasis
+Helminth infection, unspecified
+Intestinal parasitism, unspecified
+Meningoencephalitis due to toxoplasmosis
+Conjunctivitis due to toxoplasmosis
+Chorioretinitis due to toxoplasmosis
+Myocarditis due to toxoplasmosis
+Pneumonitis due to toxoplasmosis
+Hepatitis due to toxoplasmosis
+Toxoplasmosis of other specified sites
+Multisystemic disseminated toxoplasmosis
+Toxoplasmosis, unspecified
+Urogenital trichomoniasis, unspecified
+Trichomonal vulvovaginitis
+Trichomonal urethritis
+Trichomonal prostatitis
+Other urogenital trichomoniasis
+Trichomoniasis of other specified sites
+Trichomoniasis, unspecified
+Pediculus capitis [head louse]
+Pediculus corporis [body louse]
+Phthirus pubis [pubic louse]
+Mixed pediculosis infestation
+Pediculosis, unspecified
+Scabies
+Other acariasis
+Acariasis, unspecified
+Myiasis
+Other arthropod infestation
+Hirudiniasis
+Other specified infestations
+Infestation, unspecified
+Sarcoidosis
+Ainhum
+Behcet's syndrome
+Specific infection due to acanthamoeba
+Other specific infections by free-living amebae
+Pneumocystosis
+Psorospermiasis
+Sarcosporidiosis
+Other specified infectious and parasitic diseases
+Unspecified infectious and parasitic diseases
+Late effects of respiratory or unspecified tuberculosis
+Late effects of central nervous system tuberculosis
+Late effects of genitourinary tuberculosis
+Late effects of tuberculosis of bones and joints
+Late effects of tuberculosis of other specified organs
+Late effects of acute poliomyelitis
+Late effects of viral encephalitis
+Late effects of trachoma
+Late effects of other and unspecified infectious and parasitic diseases

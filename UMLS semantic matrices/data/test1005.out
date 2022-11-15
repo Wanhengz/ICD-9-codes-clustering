@@ -1,0 +1,3489 @@
+Processing 'text_000N_18930.tx.1': Cholera due to vibrio cholerae
+
+Phrase: Cholera due to vibrio cholerae
+>>>>> Phrase
+cholera due to vibrio cholerae
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (847):
+   640   CHOLERA (Cholera) [Disease or Syndrome]
+   473   due (Due to) [Functional Concept]
+   502   cholerae vibrio (Vibrio cholerae) [Bacterium]
+Meta Mapping (847):
+   640   CHOLERA (Cholera) [Disease or Syndrome]
+   473   Due [Idea or Concept]
+   502   cholerae vibrio (Vibrio cholerae) [Bacterium]
+<<<<< Mappings
+Processing 'text_000N_33946.tx.1': Cholera due to vibrio cholerae el tor
+
+Phrase: Cholera due to vibrio cholerae el tor
+>>>>> Phrase
+cholera due to vibrio cholerae el tor
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   due (Due to) [Functional Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (LIPG gene) [Gene or Genome]
+   465   Tor [Fish]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   due (Due to) [Functional Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (LIPG gene) [Gene or Genome]
+   465   TOR (RORC gene) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   due (Due to) [Functional Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (LIPG gene) [Gene or Genome]
+   465   TOR (RORC wt Allele) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   due (Due to) [Functional Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (LIPG protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+   465   Tor [Fish]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   due (Due to) [Functional Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (LIPG protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+   465   TOR (RORC gene) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   due (Due to) [Functional Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (LIPG protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+   465   TOR (RORC wt Allele) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   due (Due to) [Functional Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (TBCEL gene) [Gene or Genome]
+   465   Tor [Fish]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   due (Due to) [Functional Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (TBCEL gene) [Gene or Genome]
+   465   TOR (RORC gene) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   due (Due to) [Functional Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (TBCEL gene) [Gene or Genome]
+   465   TOR (RORC wt Allele) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   due (Due to) [Functional Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (Tubulin-Specific Chaperone Cofactor E-Like Protein) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   465   Tor [Fish]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   due (Due to) [Functional Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (Tubulin-Specific Chaperone Cofactor E-Like Protein) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   465   TOR (RORC gene) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   due (Due to) [Functional Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (Tubulin-Specific Chaperone Cofactor E-Like Protein) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   465   TOR (RORC wt Allele) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   due (Due to) [Functional Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (TBCEL wt Allele) [Gene or Genome]
+   465   Tor [Fish]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   due (Due to) [Functional Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (TBCEL wt Allele) [Gene or Genome]
+   465   TOR (RORC gene) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   due (Due to) [Functional Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (TBCEL wt Allele) [Gene or Genome]
+   465   TOR (RORC wt Allele) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   due (Due to) [Functional Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (LIPG wt Allele) [Gene or Genome]
+   465   Tor [Fish]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   due (Due to) [Functional Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (LIPG wt Allele) [Gene or Genome]
+   465   TOR (RORC gene) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   due (Due to) [Functional Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (LIPG wt Allele) [Gene or Genome]
+   465   TOR (RORC wt Allele) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   Due [Idea or Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (LIPG gene) [Gene or Genome]
+   465   Tor [Fish]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   Due [Idea or Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (LIPG gene) [Gene or Genome]
+   465   TOR (RORC gene) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   Due [Idea or Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (LIPG gene) [Gene or Genome]
+   465   TOR (RORC wt Allele) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   Due [Idea or Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (LIPG protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+   465   Tor [Fish]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   Due [Idea or Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (LIPG protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+   465   TOR (RORC gene) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   Due [Idea or Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (LIPG protein, human) [Amino Acid, Peptide, or Protein,Enzyme]
+   465   TOR (RORC wt Allele) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   Due [Idea or Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (TBCEL gene) [Gene or Genome]
+   465   Tor [Fish]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   Due [Idea or Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (TBCEL gene) [Gene or Genome]
+   465   TOR (RORC gene) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   Due [Idea or Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (TBCEL gene) [Gene or Genome]
+   465   TOR (RORC wt Allele) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   Due [Idea or Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (Tubulin-Specific Chaperone Cofactor E-Like Protein) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   465   Tor [Fish]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   Due [Idea or Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (Tubulin-Specific Chaperone Cofactor E-Like Protein) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   465   TOR (RORC gene) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   Due [Idea or Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (Tubulin-Specific Chaperone Cofactor E-Like Protein) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   465   TOR (RORC wt Allele) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   Due [Idea or Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (TBCEL wt Allele) [Gene or Genome]
+   465   Tor [Fish]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   Due [Idea or Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (TBCEL wt Allele) [Gene or Genome]
+   465   TOR (RORC gene) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   Due [Idea or Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (TBCEL wt Allele) [Gene or Genome]
+   465   TOR (RORC wt Allele) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   Due [Idea or Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (LIPG wt Allele) [Gene or Genome]
+   465   Tor [Fish]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   Due [Idea or Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (LIPG wt Allele) [Gene or Genome]
+   465   TOR (RORC gene) [Gene or Genome]
+Meta Mapping (887):
+   632   CHOLERA (Cholera) [Disease or Syndrome]
+   465   Due [Idea or Concept]
+   465   VIBRIO (Vibrio) [Bacterium]
+   465   EL (LIPG wt Allele) [Gene or Genome]
+   465   TOR (RORC wt Allele) [Gene or Genome]
+<<<<< Mappings
+Processing 'text_000N_6424.tx.1': Cholera, unspecified
+
+Phrase: Cholera,
+>>>>> Phrase
+cholera
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   CHOLERA (Cholera) [Disease or Syndrome]
+<<<<< Mappings
+
+Phrase: unspecified
+>>>>> Phrase
+unspecified
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   UNSPECIFIED (Unspecified) [Qualitative Concept]
+Meta Mapping (666):
+   666   Unspecified (XXX Unspecified) [Clinical Attribute]
+Meta Mapping (666):
+   666   Unspecified (Unspecified - Name type) [Idea or Concept]
+Meta Mapping (666):
+   666   UNSPECIFIED (Unspecified State of Consciousness) [Finding]
+Meta Mapping (666):
+   666   Unspecified (External cause codes: Unspecified) [Finding]
+<<<<< Mappings
+Processing 'text_000N_6797.tx.1': Typhoid fever
+
+Phrase: Typhoid fever
+>>>>> Phrase
+typhoid fever
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (777):
+   694   Typhoid (Typhoid Fever) [Disease or Syndrome]
+   694   FEVER (Fever) [Sign or Symptom]
+Meta Mapping (777):
+   694   Typhoid (Typhoid Fever) [Disease or Syndrome]
+   694   Fever (Fever symptoms (finding)) [Finding]
+Meta Mapping (777):
+   694   Typhoid (Typhoid Fever) [Disease or Syndrome]
+   694   Fever (Fever, CTCAE) [Finding]
+Meta Mapping (777):
+   694   typhoid, NOS (Vaccines, Typhoid) [Immunologic Factor,Pharmacologic Substance]
+   694   FEVER (Fever) [Sign or Symptom]
+Meta Mapping (777):
+   694   typhoid, NOS (Vaccines, Typhoid) [Immunologic Factor,Pharmacologic Substance]
+   694   Fever (Fever symptoms (finding)) [Finding]
+Meta Mapping (777):
+   694   typhoid, NOS (Vaccines, Typhoid) [Immunologic Factor,Pharmacologic Substance]
+   694   Fever (Fever, CTCAE) [Finding]
+<<<<< Mappings
+Processing 'text_000N_155330.tx.1': Paratyphoid fever A
+
+Phrase: Paratyphoid fever
+>>>>> Phrase
+paratyphoid fever
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (777):
+   694   PARATYPHOID (Paratyphoid Fever) [Disease or Syndrome]
+   694   FEVER (Fever) [Sign or Symptom]
+Meta Mapping (777):
+   694   PARATYPHOID (Paratyphoid Fever) [Disease or Syndrome]
+   694   Fever (Fever symptoms (finding)) [Finding]
+Meta Mapping (777):
+   694   PARATYPHOID (Paratyphoid Fever) [Disease or Syndrome]
+   694   Fever (Fever, CTCAE) [Finding]
+<<<<< Mappings
+
+Phrase: A
+>>>>> Phrase
+<<<<< Phrase
+Processing 'text_000N_18930.tx.1': Paratyphoid fever B
+
+Phrase: Paratyphoid fever B
+>>>>> Phrase
+paratyphoid fever b
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (765):
+   753   Paratyphoid B (Paratyphoid B fever) [Disease or Syndrome]
+   524   FEVER (Fever) [Sign or Symptom]
+Meta Mapping (765):
+   753   Paratyphoid B (Paratyphoid B fever) [Disease or Syndrome]
+   524   Fever (Fever symptoms (finding)) [Finding]
+Meta Mapping (765):
+   753   Paratyphoid B (Paratyphoid B fever) [Disease or Syndrome]
+   524   Fever (Fever, CTCAE) [Finding]
+<<<<< Mappings
+Processing 'text_000N_33946.tx.1': Paratyphoid fever C
+
+Phrase: Paratyphoid fever C
+>>>>> Phrase
+paratyphoid fever c
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (765):
+   753   Paratyphoid C (Paratyphoid C fever) [Disease or Syndrome]
+   524   FEVER (Fever) [Sign or Symptom]
+Meta Mapping (765):
+   753   Paratyphoid C (Paratyphoid C fever) [Disease or Syndrome]
+   524   Fever (Fever symptoms (finding)) [Finding]
+Meta Mapping (765):
+   753   Paratyphoid C (Paratyphoid C fever) [Disease or Syndrome]
+   524   Fever (Fever, CTCAE) [Finding]
+<<<<< Mappings
+Processing 'text_000N_155330.tx.1': Paratyphoid fever, unspecified
+
+Phrase: Paratyphoid fever,
+>>>>> Phrase
+paratyphoid fever
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (777):
+   694   PARATYPHOID (Paratyphoid Fever) [Disease or Syndrome]
+   694   FEVER (Fever) [Sign or Symptom]
+Meta Mapping (777):
+   694   PARATYPHOID (Paratyphoid Fever) [Disease or Syndrome]
+   694   Fever (Fever symptoms (finding)) [Finding]
+Meta Mapping (777):
+   694   PARATYPHOID (Paratyphoid Fever) [Disease or Syndrome]
+   694   Fever (Fever, CTCAE) [Finding]
+<<<<< Mappings
+
+Phrase: unspecified
+>>>>> Phrase
+unspecified
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   UNSPECIFIED (Unspecified) [Qualitative Concept]
+Meta Mapping (666):
+   666   Unspecified (XXX Unspecified) [Clinical Attribute]
+Meta Mapping (666):
+   666   Unspecified (Unspecified - Name type) [Idea or Concept]
+Meta Mapping (666):
+   666   UNSPECIFIED (Unspecified State of Consciousness) [Finding]
+Meta Mapping (666):
+   666   Unspecified (External cause codes: Unspecified) [Finding]
+<<<<< Mappings
+Processing 'text_000N_18930.tx.1': Salmonella gastroenteritis
+
+Phrase: Salmonella gastroenteritis
+>>>>> Phrase
+salmonella gastroenteritis
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (777):
+   527   SALMONELLA (Salmonella) [Bacterium]
+   694   GASTROENTERITIS (Gastroenteritis) [Disease or Syndrome]
+Meta Mapping (777):
+   527   Salmonella (Salmonella Measurement) [Laboratory Procedure]
+   694   GASTROENTERITIS (Gastroenteritis) [Disease or Syndrome]
+<<<<< Mappings
+Processing 'text_000N_6424.tx.1': Salmonella septicemia
+
+Phrase: Salmonella septicemia
+>>>>> Phrase
+salmonella septicemia
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (777):
+   527   SALMONELLA (Salmonella) [Bacterium]
+   694   Septicaemia, NOS (Septicemia) [Disease or Syndrome]
+Meta Mapping (777):
+   527   SALMONELLA (Salmonella) [Bacterium]
+   694   Septicemia (Sepsis) [Disease or Syndrome]
+Meta Mapping (777):
+   527   Salmonella (Salmonella Measurement) [Laboratory Procedure]
+   694   Septicaemia, NOS (Septicemia) [Disease or Syndrome]
+Meta Mapping (777):
+   527   Salmonella (Salmonella Measurement) [Laboratory Procedure]
+   694   Septicemia (Sepsis) [Disease or Syndrome]
+<<<<< Mappings
+Processing 'text_000N_33946.tx.1': Localized salmonella infection, unspecified
+
+Phrase: Localized salmonella infection,
+>>>>> Phrase
+localized salmonella infection
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (814):
+   524   Localized (Focal) [Spatial Concept]
+   524   SALMONELLA (Salmonella) [Bacterium]
+   691   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+Meta Mapping (814):
+   524   Localized (Focal) [Spatial Concept]
+   524   SALMONELLA (Salmonella) [Bacterium]
+   691   INFECTION (Infection) [Pathologic Function]
+Meta Mapping (814):
+   524   Localized (Focal) [Spatial Concept]
+   524   Salmonella (Salmonella Measurement) [Laboratory Procedure]
+   691   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+Meta Mapping (814):
+   524   Localized (Focal) [Spatial Concept]
+   524   Salmonella (Salmonella Measurement) [Laboratory Procedure]
+   691   INFECTION (Infection) [Pathologic Function]
+Meta Mapping (814):
+   524   LOCALIZED (Localized) [Spatial Concept]
+   524   SALMONELLA (Salmonella) [Bacterium]
+   691   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+Meta Mapping (814):
+   524   LOCALIZED (Localized) [Spatial Concept]
+   524   SALMONELLA (Salmonella) [Bacterium]
+   691   INFECTION (Infection) [Pathologic Function]
+Meta Mapping (814):
+   524   LOCALIZED (Localized) [Spatial Concept]
+   524   Salmonella (Salmonella Measurement) [Laboratory Procedure]
+   691   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+Meta Mapping (814):
+   524   LOCALIZED (Localized) [Spatial Concept]
+   524   Salmonella (Salmonella Measurement) [Laboratory Procedure]
+   691   INFECTION (Infection) [Pathologic Function]
+<<<<< Mappings
+
+Phrase: unspecified
+>>>>> Phrase
+unspecified
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   UNSPECIFIED (Unspecified) [Qualitative Concept]
+Meta Mapping (666):
+   666   Unspecified (XXX Unspecified) [Clinical Attribute]
+Meta Mapping (666):
+   666   Unspecified (Unspecified - Name type) [Idea or Concept]
+Meta Mapping (666):
+   666   UNSPECIFIED (Unspecified State of Consciousness) [Finding]
+Meta Mapping (666):
+   666   Unspecified (External cause codes: Unspecified) [Finding]
+<<<<< Mappings
+Processing 'text_000N_6797.tx.1': Salmonella meningitis
+
+Phrase: Salmonella meningitis
+>>>>> Phrase
+salmonella meningitis
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (777):
+   527   SALMONELLA (Salmonella) [Bacterium]
+   694   MENINGITIS (Meningitis) [Disease or Syndrome]
+Meta Mapping (777):
+   527   SALMONELLA (Salmonella) [Bacterium]
+   694   Meningitis (Meningitis, CTCAE) [Finding]
+Meta Mapping (777):
+   527   Salmonella (Salmonella Measurement) [Laboratory Procedure]
+   694   MENINGITIS (Meningitis) [Disease or Syndrome]
+Meta Mapping (777):
+   527   Salmonella (Salmonella Measurement) [Laboratory Procedure]
+   694   Meningitis (Meningitis, CTCAE) [Finding]
+<<<<< Mappings
+Processing 'text_000N_155330.tx.1': Salmonella pneumonia
+
+Phrase: Salmonella pneumonia
+>>>>> Phrase
+salmonella pneumonia
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (777):
+   527   SALMONELLA (Salmonella) [Bacterium]
+   694   PNEUMONIA (Pneumonia) [Disease or Syndrome]
+Meta Mapping (777):
+   527   Salmonella (Salmonella Measurement) [Laboratory Procedure]
+   694   PNEUMONIA (Pneumonia) [Disease or Syndrome]
+<<<<< Mappings
+Processing 'text_000N_212288.tx.1': Salmonella arthritis
+
+Phrase: Salmonella arthritis
+>>>>> Phrase
+salmonella arthritis
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (777):
+   527   SALMONELLA (Salmonella) [Bacterium]
+   694   ARTHRITIS (Arthritis) [Disease or Syndrome]
+Meta Mapping (777):
+   527   SALMONELLA (Salmonella) [Bacterium]
+   694   Arthritis (Arthritis, CTCAE) [Finding]
+Meta Mapping (777):
+   527   Salmonella (Salmonella Measurement) [Laboratory Procedure]
+   694   ARTHRITIS (Arthritis) [Disease or Syndrome]
+Meta Mapping (777):
+   527   Salmonella (Salmonella Measurement) [Laboratory Procedure]
+   694   Arthritis (Arthritis, CTCAE) [Finding]
+<<<<< Mappings
+Processing 'text_000N_269785.tx.1': Salmonella osteomyelitis
+
+Phrase: Salmonella osteomyelitis
+>>>>> Phrase
+salmonella osteomyelitis
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (777):
+   694   SALMONELLA (Salmonella) [Bacterium]
+   694   OSTEOMYELITIS (Osteomyelitis) [Disease or Syndrome]
+Meta Mapping (777):
+   694   Salmonella (Salmonella Measurement) [Laboratory Procedure]
+   694   OSTEOMYELITIS (Osteomyelitis) [Disease or Syndrome]
+<<<<< Mappings
+Processing 'text_000N_18930.tx.1': Other localized salmonella infections
+
+Phrase: Other localized salmonella infections
+>>>>> Phrase
+localized salmonella infections
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (814):
+   524   Localized (Focal) [Spatial Concept]
+   524   SALMONELLA (Salmonella) [Bacterium]
+   691   Infections (Infection) [Pathologic Function]
+Meta Mapping (814):
+   524   Localized (Focal) [Spatial Concept]
+   524   Salmonella (Salmonella Measurement) [Laboratory Procedure]
+   691   Infections (Infection) [Pathologic Function]
+Meta Mapping (814):
+   524   LOCALIZED (Localized) [Spatial Concept]
+   524   SALMONELLA (Salmonella) [Bacterium]
+   691   Infections (Infection) [Pathologic Function]
+Meta Mapping (814):
+   524   LOCALIZED (Localized) [Spatial Concept]
+   524   Salmonella (Salmonella Measurement) [Laboratory Procedure]
+   691   Infections (Infection) [Pathologic Function]
+<<<<< Mappings
+Processing 'text_000N_33946.tx.1': Other specified salmonella infections
+
+Phrase: Other specified salmonella infections
+>>>>> Phrase
+specified salmonella infections
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (814):
+   524   Specified (Specific qualifier value) [Qualitative Concept]
+   524   SALMONELLA (Salmonella) [Bacterium]
+   691   Infections (Infection) [Pathologic Function]
+Meta Mapping (814):
+   524   Specified (Specific qualifier value) [Qualitative Concept]
+   524   Salmonella (Salmonella Measurement) [Laboratory Procedure]
+   691   Infections (Infection) [Pathologic Function]
+<<<<< Mappings
+Processing 'text_000N_150615.tx.1': Salmonella infection, unspecified
+
+Phrase: Salmonella infection,
+>>>>> Phrase
+salmonella infection
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (777):
+   527   SALMONELLA (Salmonella) [Bacterium]
+   694   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+Meta Mapping (777):
+   527   SALMONELLA (Salmonella) [Bacterium]
+   694   INFECTION (Infection) [Pathologic Function]
+Meta Mapping (777):
+   527   Salmonella (Salmonella Measurement) [Laboratory Procedure]
+   694   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+Meta Mapping (777):
+   527   Salmonella (Salmonella Measurement) [Laboratory Procedure]
+   694   INFECTION (Infection) [Pathologic Function]
+<<<<< Mappings
+
+Phrase: unspecified
+>>>>> Phrase
+unspecified
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   UNSPECIFIED (Unspecified) [Qualitative Concept]
+Meta Mapping (666):
+   666   Unspecified (XXX Unspecified) [Clinical Attribute]
+Meta Mapping (666):
+   666   Unspecified (Unspecified - Name type) [Idea or Concept]
+Meta Mapping (666):
+   666   UNSPECIFIED (Unspecified State of Consciousness) [Finding]
+Meta Mapping (666):
+   666   Unspecified (External cause codes: Unspecified) [Finding]
+<<<<< Mappings
+Processing 'text_000N_208789.tx.1': Shigella dysenteriae
+
+Phrase: Shigella dysenteriae
+>>>>> Phrase
+shigella dysenteriae
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (694):
+   694   SHIGELLA (Shigella) [Bacterium]
+Meta Mapping (694):
+   694   SHIGELLA (Shigella Measurement) [Laboratory Procedure]
+<<<<< Mappings
+Processing 'text_000N_155330.tx.1': Shigella flexneri
+
+Phrase: Shigella flexneri
+>>>>> Phrase
+shigella flexneri
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (694):
+   694   SHIGELLA (Shigella) [Bacterium]
+Meta Mapping (694):
+   694   SHIGELLA (Shigella Measurement) [Laboratory Procedure]
+<<<<< Mappings
+Processing 'text_000N_18710.tx.1': Shigella boydii
+
+Phrase: Shigella boydii
+>>>>> Phrase
+shigella boydii
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (694):
+   694   SHIGELLA (Shigella) [Bacterium]
+Meta Mapping (694):
+   694   SHIGELLA (Shigella Measurement) [Laboratory Procedure]
+<<<<< Mappings
+Processing 'text_000N_6424.tx.1': Shigella sonnei
+
+Phrase: Shigella sonnei
+>>>>> Phrase
+shigella sonnei
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (694):
+   694   SHIGELLA (Shigella) [Bacterium]
+Meta Mapping (694):
+   694   SHIGELLA (Shigella Measurement) [Laboratory Procedure]
+<<<<< Mappings
+Processing 'text_000N_212288.tx.1': Other specified shigella infections
+
+Phrase: Other specified shigella infections
+>>>>> Phrase
+specified shigella infections
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (814):
+   524   Specified (Specific qualifier value) [Qualitative Concept]
+   524   SHIGELLA (Shigella) [Bacterium]
+   691   Infections (Infection) [Pathologic Function]
+Meta Mapping (814):
+   524   Specified (Specific qualifier value) [Qualitative Concept]
+   524   SHIGELLA (Shigella Measurement) [Laboratory Procedure]
+   691   Infections (Infection) [Pathologic Function]
+<<<<< Mappings
+Processing 'text_000N_153455.tx.1': Shigellosis, unspecified
+
+Phrase: Shigellosis,
+>>>>> Phrase
+shigellosis
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   SHIGELLOSIS (Shigella Infections) [Disease or Syndrome]
+Meta Mapping (666):
+   666   Shigellosis (Shigellosis Pathway) [Functional Concept]
+<<<<< Mappings
+
+Phrase: unspecified
+>>>>> Phrase
+unspecified
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   UNSPECIFIED (Unspecified) [Qualitative Concept]
+Meta Mapping (666):
+   666   Unspecified (XXX Unspecified) [Clinical Attribute]
+Meta Mapping (666):
+   666   Unspecified (Unspecified - Name type) [Idea or Concept]
+Meta Mapping (666):
+   666   UNSPECIFIED (Unspecified State of Consciousness) [Finding]
+Meta Mapping (666):
+   666   Unspecified (External cause codes: Unspecified) [Finding]
+<<<<< Mappings
+Processing 'text_000N_6797.tx.1': Staphylococcal food poisoning
+
+Phrase: Staphylococcal food poisoning
+>>>>> Phrase
+staphylococcal food poisoning
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (814):
+   691   Staphylococcal (Genus staphylococcus) [Bacterium]
+   691   Food [Food]
+   691   Poisoning [Injury or Poisoning]
+Meta Mapping (814):
+   691   Staphylococcal (Genus staphylococcus) [Bacterium]
+   691   Food [Food]
+   691   poisoning (Poisoning aspects) [Functional Concept]
+Meta Mapping (814):
+   691   Staphylococcal (Genus staphylococcus) [Bacterium]
+   691   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   691   Poisoning [Injury or Poisoning]
+Meta Mapping (814):
+   691   Staphylococcal (Genus staphylococcus) [Bacterium]
+   691   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   691   poisoning (Poisoning aspects) [Functional Concept]
+<<<<< Mappings
+Processing 'text_000N_269785.tx.1': Botulism food poisoning
+
+Phrase: Botulism food poisoning
+>>>>> Phrase
+botulism food poisoning
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (814):
+   524   BOTULISM (Botulism) [Injury or Poisoning]
+   691   Food [Food]
+   691   Poisoning [Injury or Poisoning]
+Meta Mapping (814):
+   524   BOTULISM (Botulism) [Injury or Poisoning]
+   691   Food [Food]
+   691   poisoning (Poisoning aspects) [Functional Concept]
+Meta Mapping (814):
+   524   BOTULISM (Botulism) [Injury or Poisoning]
+   691   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   691   Poisoning [Injury or Poisoning]
+Meta Mapping (814):
+   524   BOTULISM (Botulism) [Injury or Poisoning]
+   691   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   691   poisoning (Poisoning aspects) [Functional Concept]
+Meta Mapping (814):
+   524   Botulism (Poisoning caused by Clostridium botulinum toxin) [Injury or Poisoning]
+   691   Food [Food]
+   691   Poisoning [Injury or Poisoning]
+Meta Mapping (814):
+   524   Botulism (Poisoning caused by Clostridium botulinum toxin) [Injury or Poisoning]
+   691   Food [Food]
+   691   poisoning (Poisoning aspects) [Functional Concept]
+Meta Mapping (814):
+   524   Botulism (Poisoning caused by Clostridium botulinum toxin) [Injury or Poisoning]
+   691   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   691   Poisoning [Injury or Poisoning]
+Meta Mapping (814):
+   524   Botulism (Poisoning caused by Clostridium botulinum toxin) [Injury or Poisoning]
+   691   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   691   poisoning (Poisoning aspects) [Functional Concept]
+<<<<< Mappings
+Processing 'text_000N_18930.tx.1': Food poisoning due to Clostridium perfringens (C. welchii)
+
+Phrase: Food poisoning due to Clostridium perfringens
+>>>>> Phrase
+food poisoning due to clostridium perfringens
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (869):
+   635   Food [Food]
+   635   Poisoning [Injury or Poisoning]
+   469   due (Due to) [Functional Concept]
+   493   perfringens clostridium (Clostridium perfringens) [Bacterium]
+Meta Mapping (869):
+   635   Food [Food]
+   635   Poisoning [Injury or Poisoning]
+   469   Due [Idea or Concept]
+   493   perfringens clostridium (Clostridium perfringens) [Bacterium]
+Meta Mapping (869):
+   635   Food [Food]
+   635   poisoning (Poisoning aspects) [Functional Concept]
+   469   due (Due to) [Functional Concept]
+   493   perfringens clostridium (Clostridium perfringens) [Bacterium]
+Meta Mapping (869):
+   635   Food [Food]
+   635   poisoning (Poisoning aspects) [Functional Concept]
+   469   Due [Idea or Concept]
+   493   perfringens clostridium (Clostridium perfringens) [Bacterium]
+Meta Mapping (869):
+   635   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   635   Poisoning [Injury or Poisoning]
+   469   due (Due to) [Functional Concept]
+   493   perfringens clostridium (Clostridium perfringens) [Bacterium]
+Meta Mapping (869):
+   635   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   635   Poisoning [Injury or Poisoning]
+   469   Due [Idea or Concept]
+   493   perfringens clostridium (Clostridium perfringens) [Bacterium]
+Meta Mapping (869):
+   635   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   635   poisoning (Poisoning aspects) [Functional Concept]
+   469   due (Due to) [Functional Concept]
+   493   perfringens clostridium (Clostridium perfringens) [Bacterium]
+Meta Mapping (869):
+   635   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   635   poisoning (Poisoning aspects) [Functional Concept]
+   469   Due [Idea or Concept]
+   493   perfringens clostridium (Clostridium perfringens) [Bacterium]
+<<<<< Mappings
+
+Phrase: (C. welchii
+>>>>> Phrase
+c welchii
+<<<<< Phrase
+
+Phrase: )
+>>>>> Phrase
+<<<<< Phrase
+Processing 'text_000N_150615.tx.1': Food poisoning due to other Clostridia
+
+Phrase: Food poisoning due to other Clostridia
+>>>>> Phrase
+food poisoning due to other clostridia
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (858):
+   635   Food [Food]
+   635   Poisoning [Injury or Poisoning]
+   469   due (Due to) [Functional Concept]
+   469   clostridia (Clostridium) [Bacterium]
+Meta Mapping (858):
+   635   Food [Food]
+   635   Poisoning [Injury or Poisoning]
+   469   due (Due to) [Functional Concept]
+   469   Clostridia (Class Clostridia) [Bacterium]
+Meta Mapping (858):
+   635   Food [Food]
+   635   Poisoning [Injury or Poisoning]
+   469   Due [Idea or Concept]
+   469   clostridia (Clostridium) [Bacterium]
+Meta Mapping (858):
+   635   Food [Food]
+   635   Poisoning [Injury or Poisoning]
+   469   Due [Idea or Concept]
+   469   Clostridia (Class Clostridia) [Bacterium]
+Meta Mapping (858):
+   635   Food [Food]
+   635   poisoning (Poisoning aspects) [Functional Concept]
+   469   due (Due to) [Functional Concept]
+   469   clostridia (Clostridium) [Bacterium]
+Meta Mapping (858):
+   635   Food [Food]
+   635   poisoning (Poisoning aspects) [Functional Concept]
+   469   due (Due to) [Functional Concept]
+   469   Clostridia (Class Clostridia) [Bacterium]
+Meta Mapping (858):
+   635   Food [Food]
+   635   poisoning (Poisoning aspects) [Functional Concept]
+   469   Due [Idea or Concept]
+   469   clostridia (Clostridium) [Bacterium]
+Meta Mapping (858):
+   635   Food [Food]
+   635   poisoning (Poisoning aspects) [Functional Concept]
+   469   Due [Idea or Concept]
+   469   Clostridia (Class Clostridia) [Bacterium]
+Meta Mapping (858):
+   635   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   635   Poisoning [Injury or Poisoning]
+   469   due (Due to) [Functional Concept]
+   469   clostridia (Clostridium) [Bacterium]
+Meta Mapping (858):
+   635   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   635   Poisoning [Injury or Poisoning]
+   469   due (Due to) [Functional Concept]
+   469   Clostridia (Class Clostridia) [Bacterium]
+Meta Mapping (858):
+   635   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   635   Poisoning [Injury or Poisoning]
+   469   Due [Idea or Concept]
+   469   clostridia (Clostridium) [Bacterium]
+Meta Mapping (858):
+   635   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   635   Poisoning [Injury or Poisoning]
+   469   Due [Idea or Concept]
+   469   Clostridia (Class Clostridia) [Bacterium]
+Meta Mapping (858):
+   635   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   635   poisoning (Poisoning aspects) [Functional Concept]
+   469   due (Due to) [Functional Concept]
+   469   clostridia (Clostridium) [Bacterium]
+Meta Mapping (858):
+   635   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   635   poisoning (Poisoning aspects) [Functional Concept]
+   469   due (Due to) [Functional Concept]
+   469   Clostridia (Class Clostridia) [Bacterium]
+Meta Mapping (858):
+   635   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   635   poisoning (Poisoning aspects) [Functional Concept]
+   469   Due [Idea or Concept]
+   469   clostridia (Clostridium) [Bacterium]
+Meta Mapping (858):
+   635   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   635   poisoning (Poisoning aspects) [Functional Concept]
+   469   Due [Idea or Concept]
+   469   Clostridia (Class Clostridia) [Bacterium]
+<<<<< Mappings
+Processing 'text_000N_33946.tx.1': Food poisoning due to Vibrio parahaemolyticus
+
+Phrase: Food poisoning due to Vibrio parahaemolyticus
+>>>>> Phrase
+food poisoning due to vibrio parahaemolyticus
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (869):
+   635   Food [Food]
+   635   Poisoning [Injury or Poisoning]
+   469   due (Due to) [Functional Concept]
+   493   parahaemolyticus vibrio (Vibrio parahaemolyticus) [Bacterium]
+Meta Mapping (869):
+   635   Food [Food]
+   635   Poisoning [Injury or Poisoning]
+   469   Due [Idea or Concept]
+   493   parahaemolyticus vibrio (Vibrio parahaemolyticus) [Bacterium]
+Meta Mapping (869):
+   635   Food [Food]
+   635   poisoning (Poisoning aspects) [Functional Concept]
+   469   due (Due to) [Functional Concept]
+   493   parahaemolyticus vibrio (Vibrio parahaemolyticus) [Bacterium]
+Meta Mapping (869):
+   635   Food [Food]
+   635   poisoning (Poisoning aspects) [Functional Concept]
+   469   Due [Idea or Concept]
+   493   parahaemolyticus vibrio (Vibrio parahaemolyticus) [Bacterium]
+Meta Mapping (869):
+   635   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   635   Poisoning [Injury or Poisoning]
+   469   due (Due to) [Functional Concept]
+   493   parahaemolyticus vibrio (Vibrio parahaemolyticus) [Bacterium]
+Meta Mapping (869):
+   635   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   635   Poisoning [Injury or Poisoning]
+   469   Due [Idea or Concept]
+   493   parahaemolyticus vibrio (Vibrio parahaemolyticus) [Bacterium]
+Meta Mapping (869):
+   635   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   635   poisoning (Poisoning aspects) [Functional Concept]
+   469   due (Due to) [Functional Concept]
+   493   parahaemolyticus vibrio (Vibrio parahaemolyticus) [Bacterium]
+Meta Mapping (869):
+   635   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   635   poisoning (Poisoning aspects) [Functional Concept]
+   469   Due [Idea or Concept]
+   493   parahaemolyticus vibrio (Vibrio parahaemolyticus) [Bacterium]
+<<<<< Mappings
+Processing 'text_000N_208789.tx.1': Food poisoning due to Vibrio vulnificus
+
+Phrase: Food poisoning due to Vibrio vulnificus
+>>>>> Phrase
+food poisoning due to vibrio vulnificus
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (869):
+   635   Food [Food]
+   635   Poisoning [Injury or Poisoning]
+   469   due (Due to) [Functional Concept]
+   487   VIBRIO VULNIFICUS (Vibrio vulnificus) [Bacterium]
+Meta Mapping (869):
+   635   Food [Food]
+   635   Poisoning [Injury or Poisoning]
+   469   Due [Idea or Concept]
+   487   VIBRIO VULNIFICUS (Vibrio vulnificus) [Bacterium]
+Meta Mapping (869):
+   635   Food [Food]
+   635   poisoning (Poisoning aspects) [Functional Concept]
+   469   due (Due to) [Functional Concept]
+   487   VIBRIO VULNIFICUS (Vibrio vulnificus) [Bacterium]
+Meta Mapping (869):
+   635   Food [Food]
+   635   poisoning (Poisoning aspects) [Functional Concept]
+   469   Due [Idea or Concept]
+   487   VIBRIO VULNIFICUS (Vibrio vulnificus) [Bacterium]
+Meta Mapping (869):
+   635   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   635   Poisoning [Injury or Poisoning]
+   469   due (Due to) [Functional Concept]
+   487   VIBRIO VULNIFICUS (Vibrio vulnificus) [Bacterium]
+Meta Mapping (869):
+   635   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   635   Poisoning [Injury or Poisoning]
+   469   Due [Idea or Concept]
+   487   VIBRIO VULNIFICUS (Vibrio vulnificus) [Bacterium]
+Meta Mapping (869):
+   635   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   635   poisoning (Poisoning aspects) [Functional Concept]
+   469   due (Due to) [Functional Concept]
+   487   VIBRIO VULNIFICUS (Vibrio vulnificus) [Bacterium]
+Meta Mapping (869):
+   635   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   635   poisoning (Poisoning aspects) [Functional Concept]
+   469   Due [Idea or Concept]
+   487   VIBRIO VULNIFICUS (Vibrio vulnificus) [Bacterium]
+<<<<< Mappings
+Processing 'text_000N_155330.tx.1': Other bacterial food poisoning
+
+Phrase: Other bacterial food poisoning
+>>>>> Phrase
+bacterial food poisoning
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (814):
+   524   Bacterial [Qualitative Concept]
+   691   Food [Food]
+   691   Poisoning [Injury or Poisoning]
+Meta Mapping (814):
+   524   Bacterial [Qualitative Concept]
+   691   Food [Food]
+   691   poisoning (Poisoning aspects) [Functional Concept]
+Meta Mapping (814):
+   524   Bacterial [Qualitative Concept]
+   691   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   691   Poisoning [Injury or Poisoning]
+Meta Mapping (814):
+   524   Bacterial [Qualitative Concept]
+   691   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   691   poisoning (Poisoning aspects) [Functional Concept]
+<<<<< Mappings
+Processing 'text_000N_18710.tx.1': Food poisoning, unspecified
+
+Phrase: Food poisoning,
+>>>>> Phrase
+food poisoning
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (777):
+   694   Food [Food]
+   694   Poisoning [Injury or Poisoning]
+Meta Mapping (777):
+   694   Food [Food]
+   694   poisoning (Poisoning aspects) [Functional Concept]
+Meta Mapping (777):
+   694   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   694   Poisoning [Injury or Poisoning]
+Meta Mapping (777):
+   694   food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+   694   poisoning (Poisoning aspects) [Functional Concept]
+<<<<< Mappings
+
+Phrase: unspecified
+>>>>> Phrase
+unspecified
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   UNSPECIFIED (Unspecified) [Qualitative Concept]
+Meta Mapping (666):
+   666   Unspecified (XXX Unspecified) [Clinical Attribute]
+Meta Mapping (666):
+   666   Unspecified (Unspecified - Name type) [Idea or Concept]
+Meta Mapping (666):
+   666   UNSPECIFIED (Unspecified State of Consciousness) [Finding]
+Meta Mapping (666):
+   666   Unspecified (External cause codes: Unspecified) [Finding]
+<<<<< Mappings
+Processing 'text_000N_17725.tx.1': Acute amebic dysentery without mention of abscess
+
+Phrase: Acute amebic dysentery without mention of abscess
+>>>>> Phrase
+acute amebic dysentery without mention of abscess
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (850):
+   465   ACUTE (acute) [Temporal Concept]
+   632   Amoebic (Amoeba genus) [Eukaryote]
+   632 N DYSENTERY (Dysentery) [Disease or Syndrome]
+   465 N ABSCESS (Abscess) [Disease or Syndrome]
+Meta Mapping (850):
+   465   ACUTE (acute) [Temporal Concept]
+   632   Amoebic (Amoeba genus) [Eukaryote]
+   632 N DYSENTERY (Dysentery) [Disease or Syndrome]
+   465   Abcess (Specimen Type - Abscess) [Body Substance]
+Meta Mapping (850):
+   465   ACUTE (acute) [Temporal Concept]
+   632   Amoebic (Amoeba genus) [Eukaryote]
+   632 N Dysentery (Dysenteric diarrhea) [Disease or Syndrome]
+   465 N ABSCESS (Abscess) [Disease or Syndrome]
+Meta Mapping (850):
+   465   ACUTE (acute) [Temporal Concept]
+   632   Amoebic (Amoeba genus) [Eukaryote]
+   632 N Dysentery (Dysenteric diarrhea) [Disease or Syndrome]
+   465   Abcess (Specimen Type - Abscess) [Body Substance]
+Meta Mapping (850):
+   465 N Acute (Acute GVH disease) [Disease or Syndrome]
+   632   Amoebic (Amoeba genus) [Eukaryote]
+   632 N DYSENTERY (Dysentery) [Disease or Syndrome]
+   465 N ABSCESS (Abscess) [Disease or Syndrome]
+Meta Mapping (850):
+   465 N Acute (Acute GVH disease) [Disease or Syndrome]
+   632   Amoebic (Amoeba genus) [Eukaryote]
+   632 N DYSENTERY (Dysentery) [Disease or Syndrome]
+   465   Abcess (Specimen Type - Abscess) [Body Substance]
+Meta Mapping (850):
+   465 N Acute (Acute GVH disease) [Disease or Syndrome]
+   632   Amoebic (Amoeba genus) [Eukaryote]
+   632 N Dysentery (Dysenteric diarrhea) [Disease or Syndrome]
+   465 N ABSCESS (Abscess) [Disease or Syndrome]
+Meta Mapping (850):
+   465 N Acute (Acute GVH disease) [Disease or Syndrome]
+   632   Amoebic (Amoeba genus) [Eukaryote]
+   632 N Dysentery (Dysenteric diarrhea) [Disease or Syndrome]
+   465   Abcess (Specimen Type - Abscess) [Body Substance]
+Meta Mapping (850):
+   465   ACUTE (acute inpatient encounter) [Health Care Activity]
+   632   Amoebic (Amoeba genus) [Eukaryote]
+   632 N DYSENTERY (Dysentery) [Disease or Syndrome]
+   465 N ABSCESS (Abscess) [Disease or Syndrome]
+Meta Mapping (850):
+   465   ACUTE (acute inpatient encounter) [Health Care Activity]
+   632   Amoebic (Amoeba genus) [Eukaryote]
+   632 N DYSENTERY (Dysentery) [Disease or Syndrome]
+   465   Abcess (Specimen Type - Abscess) [Body Substance]
+Meta Mapping (850):
+   465   ACUTE (acute inpatient encounter) [Health Care Activity]
+   632   Amoebic (Amoeba genus) [Eukaryote]
+   632 N Dysentery (Dysenteric diarrhea) [Disease or Syndrome]
+   465 N ABSCESS (Abscess) [Disease or Syndrome]
+Meta Mapping (850):
+   465   ACUTE (acute inpatient encounter) [Health Care Activity]
+   632   Amoebic (Amoeba genus) [Eukaryote]
+   632 N Dysentery (Dysenteric diarrhea) [Disease or Syndrome]
+   465   Abcess (Specimen Type - Abscess) [Body Substance]
+<<<<< Mappings
+Processing 'text_000N_212288.tx.1': Chronic intestinal amebiasis without mention of abscess
+
+Phrase: Chronic intestinal amebiasis without mention of abscess
+>>>>> Phrase
+chronic intestinal amebiasis without mention of abscess
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (850):
+   465   CHRONIC (chronic) [Temporal Concept]
+   632   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632 N Amoebiasis (Amebiasis) [Disease or Syndrome]
+   465 N ABSCESS (Abscess) [Disease or Syndrome]
+Meta Mapping (850):
+   465   CHRONIC (chronic) [Temporal Concept]
+   632   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632 N Amoebiasis (Amebiasis) [Disease or Syndrome]
+   465   Abcess (Specimen Type - Abscess) [Body Substance]
+Meta Mapping (850):
+   465   CHRONIC (chronic) [Temporal Concept]
+   632   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632 N amoebiasis (Amebic colitis) [Disease or Syndrome]
+   465 N ABSCESS (Abscess) [Disease or Syndrome]
+Meta Mapping (850):
+   465   CHRONIC (chronic) [Temporal Concept]
+   632   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632 N amoebiasis (Amebic colitis) [Disease or Syndrome]
+   465   Abcess (Specimen Type - Abscess) [Body Substance]
+Meta Mapping (850):
+   465   CHRONIC (chronic) [Temporal Concept]
+   632   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632   Amoebiasis (Entamoeba histolytica Infection Pathway) [Functional Concept]
+   465 N ABSCESS (Abscess) [Disease or Syndrome]
+Meta Mapping (850):
+   465   CHRONIC (chronic) [Temporal Concept]
+   632   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632   Amoebiasis (Entamoeba histolytica Infection Pathway) [Functional Concept]
+   465   Abcess (Specimen Type - Abscess) [Body Substance]
+Meta Mapping (850):
+   465 N Chronic (Chronic graft-versus-host disease) [Disease or Syndrome]
+   632   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632 N Amoebiasis (Amebiasis) [Disease or Syndrome]
+   465 N ABSCESS (Abscess) [Disease or Syndrome]
+Meta Mapping (850):
+   465 N Chronic (Chronic graft-versus-host disease) [Disease or Syndrome]
+   632   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632 N Amoebiasis (Amebiasis) [Disease or Syndrome]
+   465   Abcess (Specimen Type - Abscess) [Body Substance]
+Meta Mapping (850):
+   465 N Chronic (Chronic graft-versus-host disease) [Disease or Syndrome]
+   632   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632 N amoebiasis (Amebic colitis) [Disease or Syndrome]
+   465 N ABSCESS (Abscess) [Disease or Syndrome]
+Meta Mapping (850):
+   465 N Chronic (Chronic graft-versus-host disease) [Disease or Syndrome]
+   632   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632 N amoebiasis (Amebic colitis) [Disease or Syndrome]
+   465   Abcess (Specimen Type - Abscess) [Body Substance]
+Meta Mapping (850):
+   465 N Chronic (Chronic graft-versus-host disease) [Disease or Syndrome]
+   632   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632   Amoebiasis (Entamoeba histolytica Infection Pathway) [Functional Concept]
+   465 N ABSCESS (Abscess) [Disease or Syndrome]
+Meta Mapping (850):
+   465 N Chronic (Chronic graft-versus-host disease) [Disease or Syndrome]
+   632   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632   Amoebiasis (Entamoeba histolytica Infection Pathway) [Functional Concept]
+   465   Abcess (Specimen Type - Abscess) [Body Substance]
+<<<<< Mappings
+Processing 'text_000N_153455.tx.1': Amebic nondysenteric colitis
+
+Phrase: Amebic nondysenteric colitis
+>>>>> Phrase
+amebic nondysenteric colitis
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (864):
+   524   Amoebic (Amoeba genus) [Eukaryote]
+   691   COLITIS (Colitis) [Disease or Syndrome]
+Meta Mapping (864):
+   524   Amoebic (Amoeba genus) [Eukaryote]
+   691   Colitis (Colitis, CTCAE) [Finding]
+<<<<< Mappings
+Processing 'text_000N_150615.tx.1': Amebic liver abscess
+
+Phrase: Amebic liver abscess
+>>>>> Phrase
+amebic liver abscess
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (814):
+   691   Amoebic (Amoeba genus) [Eukaryote]
+   691   LIVER (Liver) [Body Part, Organ, or Organ Component]
+   691   ABSCESS (Abscess) [Disease or Syndrome]
+Meta Mapping (814):
+   691   Amoebic (Amoeba genus) [Eukaryote]
+   691   LIVER (Liver) [Body Part, Organ, or Organ Component]
+   691   Abcess (Specimen Type - Abscess) [Body Substance]
+Meta Mapping (814):
+   691   Amoebic (Amoeba genus) [Eukaryote]
+   691   LIVER (Liver Flavor) [Food]
+   691   ABSCESS (Abscess) [Disease or Syndrome]
+Meta Mapping (814):
+   691   Amoebic (Amoeba genus) [Eukaryote]
+   691   LIVER (Liver Flavor) [Food]
+   691   Abcess (Specimen Type - Abscess) [Body Substance]
+Meta Mapping (814):
+   691   Amoebic (Amoeba genus) [Eukaryote]
+   691   Liver (Abdomen>Liver) [Body Part, Organ, or Organ Component]
+   691   ABSCESS (Abscess) [Disease or Syndrome]
+Meta Mapping (814):
+   691   Amoebic (Amoeba genus) [Eukaryote]
+   691   Liver (Abdomen>Liver) [Body Part, Organ, or Organ Component]
+   691   Abcess (Specimen Type - Abscess) [Body Substance]
+<<<<< Mappings
+Processing 'text_000N_208789.tx.1': Amebic lung abscess
+
+Phrase: Amebic lung abscess
+>>>>> Phrase
+amebic lung abscess
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (814):
+   524   Amoebic (Amoeba genus) [Eukaryote]
+   524   LUNG (Lung) [Body Part, Organ, or Organ Component]
+   691   ABSCESS (Abscess) [Disease or Syndrome]
+Meta Mapping (814):
+   524   Amoebic (Amoeba genus) [Eukaryote]
+   524   LUNG (Lung) [Body Part, Organ, or Organ Component]
+   691   Abcess (Specimen Type - Abscess) [Body Substance]
+Meta Mapping (814):
+   524   Amoebic (Amoeba genus) [Eukaryote]
+   524   Lung (Chest>Lung) [Body Location or Region]
+   691   ABSCESS (Abscess) [Disease or Syndrome]
+Meta Mapping (814):
+   524   Amoebic (Amoeba genus) [Eukaryote]
+   524   Lung (Chest>Lung) [Body Location or Region]
+   691   Abcess (Specimen Type - Abscess) [Body Substance]
+<<<<< Mappings
+Processing 'text_000N_269785.tx.1': Amebic brain abscess
+
+Phrase: Amebic brain abscess
+>>>>> Phrase
+amebic brain abscess
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (814):
+   524   Amoebic (Amoeba genus) [Eukaryote]
+   691   BRAIN (Brain) [Body Part, Organ, or Organ Component]
+   691   ABSCESS (Abscess) [Disease or Syndrome]
+Meta Mapping (814):
+   524   Amoebic (Amoeba genus) [Eukaryote]
+   691   BRAIN (Brain) [Body Part, Organ, or Organ Component]
+   691   Abcess (Specimen Type - Abscess) [Body Substance]
+Meta Mapping (814):
+   524   Amoebic (Amoeba genus) [Eukaryote]
+   691   Brain (Head>Brain) [Body Part, Organ, or Organ Component]
+   691   ABSCESS (Abscess) [Disease or Syndrome]
+Meta Mapping (814):
+   524   Amoebic (Amoeba genus) [Eukaryote]
+   691   Brain (Head>Brain) [Body Part, Organ, or Organ Component]
+   691   Abcess (Specimen Type - Abscess) [Body Substance]
+<<<<< Mappings
+Processing 'text_000N_6424.tx.1': Amebic skin ulceration
+
+Phrase: Amebic skin ulceration
+>>>>> Phrase
+amebic skin ulceration
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (814):
+   524   Amoebic (Amoeba genus) [Eukaryote]
+   524   Skin (Skin Specimen) [Body Substance]
+   691   Ulceration (Ulcer) [Pathologic Function]
+Meta Mapping (814):
+   524   Amoebic (Amoeba genus) [Eukaryote]
+   524   Skin (Skin Specimen) [Body Substance]
+   691   Ulceration (Ulceration, CTCAE) [Finding]
+Meta Mapping (814):
+   524   Amoebic (Amoeba genus) [Eukaryote]
+   524   Skin (Skin Specimen) [Body Substance]
+   691   Ulceration [Pathologic Function]
+Meta Mapping (814):
+   524   Amoebic (Amoeba genus) [Eukaryote]
+   524   Skin (Skin Specimen) [Body Substance]
+   691   Ulceration (Ulceration Assessment) [Laboratory Procedure]
+Meta Mapping (814):
+   524   Amoebic (Amoeba genus) [Eukaryote]
+   524   SKIN (Skin) [Body System]
+   691   Ulceration (Ulcer) [Pathologic Function]
+Meta Mapping (814):
+   524   Amoebic (Amoeba genus) [Eukaryote]
+   524   SKIN (Skin) [Body System]
+   691   Ulceration (Ulceration, CTCAE) [Finding]
+Meta Mapping (814):
+   524   Amoebic (Amoeba genus) [Eukaryote]
+   524   SKIN (Skin) [Body System]
+   691   Ulceration [Pathologic Function]
+Meta Mapping (814):
+   524   Amoebic (Amoeba genus) [Eukaryote]
+   524   SKIN (Skin) [Body System]
+   691   Ulceration (Ulceration Assessment) [Laboratory Procedure]
+Meta Mapping (814):
+   524   Amoebic (Amoeba genus) [Eukaryote]
+   524   SKIN (Skin, Human) [Body System]
+   691   Ulceration (Ulcer) [Pathologic Function]
+Meta Mapping (814):
+   524   Amoebic (Amoeba genus) [Eukaryote]
+   524   SKIN (Skin, Human) [Body System]
+   691   Ulceration (Ulceration, CTCAE) [Finding]
+Meta Mapping (814):
+   524   Amoebic (Amoeba genus) [Eukaryote]
+   524   SKIN (Skin, Human) [Body System]
+   691   Ulceration [Pathologic Function]
+Meta Mapping (814):
+   524   Amoebic (Amoeba genus) [Eukaryote]
+   524   SKIN (Skin, Human) [Body System]
+   691   Ulceration (Ulceration Assessment) [Laboratory Procedure]
+<<<<< Mappings
+Processing 'text_000N_7429.tx.1': Amebic infection of other sites
+
+Phrase: Amebic infection of other sites
+>>>>> Phrase
+amebic infection of other sites
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (837):
+   473   Amoebic (Amoeba genus) [Eukaryote]
+   640   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   Sites (Site) [Spatial Concept]
+Meta Mapping (837):
+   473   Amoebic (Amoeba genus) [Eukaryote]
+   640   INFECTION (Infection) [Pathologic Function]
+   473   Sites (Site) [Spatial Concept]
+<<<<< Mappings
+Processing 'text_000N_18710.tx.1': Amebiasis, unspecified
+
+Phrase: Amebiasis,
+>>>>> Phrase
+amebiasis
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   Amoebiasis (Amebiasis) [Disease or Syndrome]
+Meta Mapping (666):
+   666   amoebiasis (Amebic colitis) [Disease or Syndrome]
+Meta Mapping (666):
+   666   Amoebiasis (Entamoeba histolytica Infection Pathway) [Functional Concept]
+<<<<< Mappings
+
+Phrase: unspecified
+>>>>> Phrase
+unspecified
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   UNSPECIFIED (Unspecified) [Qualitative Concept]
+Meta Mapping (666):
+   666   Unspecified (XXX Unspecified) [Clinical Attribute]
+Meta Mapping (666):
+   666   Unspecified (Unspecified - Name type) [Idea or Concept]
+Meta Mapping (666):
+   666   UNSPECIFIED (Unspecified State of Consciousness) [Finding]
+Meta Mapping (666):
+   666   Unspecified (External cause codes: Unspecified) [Finding]
+<<<<< Mappings
+Processing 'text_000N_18930.tx.1': Balantidiasis
+
+Phrase: Balantidiasis
+>>>>> Phrase
+balantidiasis
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   Balantidiosis (Balantidiasis) [Disease or Syndrome]
+<<<<< Mappings
+Processing 'text_000N_153455.tx.1': Giardiasis
+
+Phrase: Giardiasis
+>>>>> Phrase
+giardiasis
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   GIARDIASIS (Giardiasis) [Disease or Syndrome]
+<<<<< Mappings
+Processing 'text_000N_33946.tx.1': Coccidiosis
+
+Phrase: Coccidiosis
+>>>>> Phrase
+coccidiosis
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   COCCIDIOSIS (Coccidiosis) [Disease or Syndrome]
+Meta Mapping (666):
+   666   Coccidiosis (Enteric coccidiosis) [Disease or Syndrome]
+<<<<< Mappings
+Processing 'text_000N_155330.tx.1': Intestinal trichomoniasis
+
+Phrase: Intestinal trichomoniasis
+>>>>> Phrase
+intestinal trichomoniasis
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (777):
+   527   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   694   TRICHOMONIASIS (Trichomonas Infections) [Disease or Syndrome]
+<<<<< Mappings
+Processing 'text_000N_17725.tx.1': Cryptosporidiosis
+
+Phrase: Cryptosporidiosis
+>>>>> Phrase
+cryptosporidiosis
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   CRYPTOSPORIDIOSIS (Cryptosporidiosis) [Disease or Syndrome]
+<<<<< Mappings
+Processing 'text_000N_212288.tx.1': Cyclosporiasis
+
+Phrase: Cyclosporiasis
+>>>>> Phrase
+cyclosporiasis
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   Cyclosporiasis [Disease or Syndrome]
+Meta Mapping (666):
+   666   Cyclosporiasis (Infection of intestine caused by cyclospora cayetanensis) [Disease or Syndrome]
+<<<<< Mappings
+Processing 'text_000N_239851.tx.1': Other specified protozoal intestinal diseases
+
+Phrase: Other specified protozoal intestinal diseases
+>>>>> Phrase
+specified protozoal intestinal diseases
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (833):
+   520   Specified (Specific qualifier value) [Qualitative Concept]
+   520   Protozoal (Protozoa) [Eukaryote]
+   687   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   687   Diseases (Disease) [Disease or Syndrome]
+Meta Mapping (833):
+   520   Specified (Specific qualifier value) [Qualitative Concept]
+   520   Protozoal (Protozoal qualifier) [Qualitative Concept]
+   687   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   687   Diseases (Disease) [Disease or Syndrome]
+<<<<< Mappings
+Processing 'text_000N_6797.tx.1': Unspecified protozoal intestinal disease
+
+Phrase: Unspecified protozoal intestinal disease
+>>>>> Phrase
+unspecified protozoal intestinal disease
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (833):
+   520   UNSPECIFIED (Unspecified) [Qualitative Concept]
+   520   Protozoal (Protozoa) [Eukaryote]
+   687   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   687   Disease [Disease or Syndrome]
+Meta Mapping (833):
+   520   UNSPECIFIED (Unspecified) [Qualitative Concept]
+   520   Protozoal (Protozoal qualifier) [Qualitative Concept]
+   687   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   687   Disease [Disease or Syndrome]
+Meta Mapping (833):
+   520   Unspecified (XXX Unspecified) [Clinical Attribute]
+   520   Protozoal (Protozoa) [Eukaryote]
+   687   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   687   Disease [Disease or Syndrome]
+Meta Mapping (833):
+   520   Unspecified (XXX Unspecified) [Clinical Attribute]
+   520   Protozoal (Protozoal qualifier) [Qualitative Concept]
+   687   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   687   Disease [Disease or Syndrome]
+Meta Mapping (833):
+   520   Unspecified (Unspecified - Name type) [Idea or Concept]
+   520   Protozoal (Protozoa) [Eukaryote]
+   687   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   687   Disease [Disease or Syndrome]
+Meta Mapping (833):
+   520   Unspecified (Unspecified - Name type) [Idea or Concept]
+   520   Protozoal (Protozoal qualifier) [Qualitative Concept]
+   687   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   687   Disease [Disease or Syndrome]
+Meta Mapping (833):
+   520   UNSPECIFIED (Unspecified State of Consciousness) [Finding]
+   520   Protozoal (Protozoa) [Eukaryote]
+   687   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   687   Disease [Disease or Syndrome]
+Meta Mapping (833):
+   520   UNSPECIFIED (Unspecified State of Consciousness) [Finding]
+   520   Protozoal (Protozoal qualifier) [Qualitative Concept]
+   687   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   687   Disease [Disease or Syndrome]
+Meta Mapping (833):
+   520   Unspecified (External cause codes: Unspecified) [Finding]
+   520   Protozoal (Protozoa) [Eukaryote]
+   687   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   687   Disease [Disease or Syndrome]
+Meta Mapping (833):
+   520   Unspecified (External cause codes: Unspecified) [Finding]
+   520   Protozoal (Protozoal qualifier) [Qualitative Concept]
+   687   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   687   Disease [Disease or Syndrome]
+<<<<< Mappings
+Processing 'text_000N_211809.tx.1': Intestinal infection due to E. coli, unspecified
+
+Phrase: Intestinal infection due to E. coli,
+>>>>> Phrase
+intestinal infection due to e coli
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (869):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   469   due (Due to) [Functional Concept]
+   487   E coli (Escherichia coli) [Bacterium]
+Meta Mapping (869):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   469   Due [Idea or Concept]
+   487   E coli (Escherichia coli) [Bacterium]
+Meta Mapping (869):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   INFECTION (Infection) [Pathologic Function]
+   469   due (Due to) [Functional Concept]
+   487   E coli (Escherichia coli) [Bacterium]
+Meta Mapping (869):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   INFECTION (Infection) [Pathologic Function]
+   469   Due [Idea or Concept]
+   487   E coli (Escherichia coli) [Bacterium]
+<<<<< Mappings
+
+Phrase: unspecified
+>>>>> Phrase
+unspecified
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   UNSPECIFIED (Unspecified) [Qualitative Concept]
+Meta Mapping (666):
+   666   Unspecified (XXX Unspecified) [Clinical Attribute]
+Meta Mapping (666):
+   666   Unspecified (Unspecified - Name type) [Idea or Concept]
+Meta Mapping (666):
+   666   UNSPECIFIED (Unspecified State of Consciousness) [Finding]
+Meta Mapping (666):
+   666   Unspecified (External cause codes: Unspecified) [Finding]
+<<<<< Mappings
+Processing 'text_000N_150615.tx.1': Intestinal infection due to enteropathogenic E. coli
+
+Phrase: Intestinal infection due to enteropathogenic E. coli
+>>>>> Phrase
+intestinal infection due to enteropathogenic e coli
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (885):
+   465   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   465   due (Due to) [Functional Concept]
+   465   Enteropathogenic [Qualitative Concept]
+   482   E coli (Escherichia coli) [Bacterium]
+Meta Mapping (885):
+   465   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   465   Due [Idea or Concept]
+   465   Enteropathogenic [Qualitative Concept]
+   482   E coli (Escherichia coli) [Bacterium]
+Meta Mapping (885):
+   465   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632   INFECTION (Infection) [Pathologic Function]
+   465   due (Due to) [Functional Concept]
+   465   Enteropathogenic [Qualitative Concept]
+   482   E coli (Escherichia coli) [Bacterium]
+Meta Mapping (885):
+   465   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632   INFECTION (Infection) [Pathologic Function]
+   465   Due [Idea or Concept]
+   465   Enteropathogenic [Qualitative Concept]
+   482   E coli (Escherichia coli) [Bacterium]
+<<<<< Mappings
+Processing 'text_000N_153455.tx.1': Intestinal infection due to enterotoxigenic E. coli
+
+Phrase: Intestinal infection due to enterotoxigenic E. coli
+>>>>> Phrase
+intestinal infection due to enterotoxigenic e coli
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (869):
+   465   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   482   Due To (Due to) [Functional Concept]
+   482   E coli (Escherichia coli) [Bacterium]
+Meta Mapping (869):
+   465   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632   INFECTION (Infection) [Pathologic Function]
+   482   Due To (Due to) [Functional Concept]
+   482   E coli (Escherichia coli) [Bacterium]
+<<<<< Mappings
+Processing 'text_000N_151995.tx.1': Intestinal infection due to enteroinvasive E. coli
+
+Phrase: Intestinal infection due to enteroinvasive E. coli
+>>>>> Phrase
+intestinal infection due to enteroinvasive e coli
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (885):
+   465   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   465   due (Due to) [Functional Concept]
+   465   Enteroinvasive [Intellectual Product]
+   482   E coli (Escherichia coli) [Bacterium]
+Meta Mapping (885):
+   465   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   465   Due [Idea or Concept]
+   465   Enteroinvasive [Intellectual Product]
+   482   E coli (Escherichia coli) [Bacterium]
+Meta Mapping (885):
+   465   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632   INFECTION (Infection) [Pathologic Function]
+   465   due (Due to) [Functional Concept]
+   465   Enteroinvasive [Intellectual Product]
+   482   E coli (Escherichia coli) [Bacterium]
+Meta Mapping (885):
+   465   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632   INFECTION (Infection) [Pathologic Function]
+   465   Due [Idea or Concept]
+   465   Enteroinvasive [Intellectual Product]
+   482   E coli (Escherichia coli) [Bacterium]
+<<<<< Mappings
+Processing 'text_000N_208789.tx.1': Intestinal infection due to enterohemorrhagic E. coli
+
+Phrase: Intestinal infection due to enterohemorrhagic E. coli
+>>>>> Phrase
+intestinal infection due to enterohemorrhagic e coli
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (885):
+   465   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   465   due (Due to) [Functional Concept]
+   465   Enterohemorrhagic [Classification]
+   482   E coli (Escherichia coli) [Bacterium]
+Meta Mapping (885):
+   465   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   465   Due [Idea or Concept]
+   465   Enterohemorrhagic [Classification]
+   482   E coli (Escherichia coli) [Bacterium]
+Meta Mapping (885):
+   465   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632   INFECTION (Infection) [Pathologic Function]
+   465   due (Due to) [Functional Concept]
+   465   Enterohemorrhagic [Classification]
+   482   E coli (Escherichia coli) [Bacterium]
+Meta Mapping (885):
+   465   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   632   INFECTION (Infection) [Pathologic Function]
+   465   Due [Idea or Concept]
+   465   Enterohemorrhagic [Classification]
+   482   E coli (Escherichia coli) [Bacterium]
+<<<<< Mappings
+Processing 'text_000N_269785.tx.1': Intestinal infection due to other intestinal E. coli infections
+
+Phrase: Intestinal infection due to other intestinal E. coli infections
+>>>>> Phrase
+intestinal infection due to other intestinal e coli infections
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (878):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   628   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   475   Due To (Due to) [Functional Concept]
+   475   E coli (Escherichia coli) [Bacterium]
+   461   Infections (Infection) [Pathologic Function]
+Meta Mapping (878):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   628   INFECTION (Infection) [Pathologic Function]
+   475   Due To (Due to) [Functional Concept]
+   475   E coli (Escherichia coli) [Bacterium]
+   461   Infections (Infection) [Pathologic Function]
+<<<<< Mappings
+Processing 'text_000N_155330.tx.1': Intestinal infection due to arizona group of paracolon bacilli
+
+Phrase: Intestinal infection due to arizona group of paracolon bacilli
+>>>>> Phrase
+intestinal infection due to arizona group of paracolon bacilli
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Groups) [Idea or Concept]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Genus Bacillus) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Groups) [Idea or Concept]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   bacillus (Lactobacillus casei) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Groups) [Idea or Concept]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Bacilli class) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Groups) [Idea or Concept]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacillus (Bacillus <walking sticks>) [Eukaryote]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   group (Social group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Genus Bacillus) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   group (Social group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   bacillus (Lactobacillus casei) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   group (Social group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Bacilli class) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   group (Social group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacillus (Bacillus <walking sticks>) [Eukaryote]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Population Group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Genus Bacillus) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Population Group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   bacillus (Lactobacillus casei) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Population Group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Bacilli class) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Population Group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacillus (Bacillus <walking sticks>) [Eukaryote]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Stage Grouping) [Functional Concept]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Genus Bacillus) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Stage Grouping) [Functional Concept]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   bacillus (Lactobacillus casei) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Stage Grouping) [Functional Concept]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Bacilli class) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Stage Grouping) [Functional Concept]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacillus (Bacillus <walking sticks>) [Eukaryote]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Group Object) [Conceptual Entity]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Genus Bacillus) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Group Object) [Conceptual Entity]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   bacillus (Lactobacillus casei) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Group Object) [Conceptual Entity]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Bacilli class) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Group Object) [Conceptual Entity]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacillus (Bacillus <walking sticks>) [Eukaryote]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   Group (User Group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Genus Bacillus) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   Group (User Group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   bacillus (Lactobacillus casei) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   Group (User Group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Bacilli class) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   Group (User Group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacillus (Bacillus <walking sticks>) [Eukaryote]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   GROUP (Organism by Group) [Classification]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Genus Bacillus) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   GROUP (Organism by Group) [Classification]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   bacillus (Lactobacillus casei) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   GROUP (Organism by Group) [Classification]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Bacilli class) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   due (Due to) [Functional Concept]
+   461   Arizona [Geographic Area]
+   461   GROUP (Organism by Group) [Classification]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacillus (Bacillus <walking sticks>) [Eukaryote]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Groups) [Idea or Concept]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Genus Bacillus) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Groups) [Idea or Concept]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   bacillus (Lactobacillus casei) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Groups) [Idea or Concept]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Bacilli class) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Groups) [Idea or Concept]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacillus (Bacillus <walking sticks>) [Eukaryote]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   group (Social group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Genus Bacillus) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   group (Social group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   bacillus (Lactobacillus casei) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   group (Social group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Bacilli class) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   group (Social group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacillus (Bacillus <walking sticks>) [Eukaryote]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Population Group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Genus Bacillus) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Population Group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   bacillus (Lactobacillus casei) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Population Group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Bacilli class) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Population Group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacillus (Bacillus <walking sticks>) [Eukaryote]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Stage Grouping) [Functional Concept]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Genus Bacillus) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Stage Grouping) [Functional Concept]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   bacillus (Lactobacillus casei) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Stage Grouping) [Functional Concept]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Bacilli class) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Stage Grouping) [Functional Concept]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacillus (Bacillus <walking sticks>) [Eukaryote]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Group Object) [Conceptual Entity]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Genus Bacillus) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Group Object) [Conceptual Entity]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   bacillus (Lactobacillus casei) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Group Object) [Conceptual Entity]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Bacilli class) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   Group (Group Object) [Conceptual Entity]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacillus (Bacillus <walking sticks>) [Eukaryote]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   Group (User Group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Genus Bacillus) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   Group (User Group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   bacillus (Lactobacillus casei) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   Group (User Group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Bacilli class) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   Group (User Group) [Population Group]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacillus (Bacillus <walking sticks>) [Eukaryote]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   GROUP (Organism by Group) [Classification]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Genus Bacillus) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   GROUP (Organism by Group) [Classification]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   bacillus (Lactobacillus casei) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   GROUP (Organism by Group) [Classification]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacilli (Bacilli class) [Bacterium]
+Meta Mapping (898):
+   461   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   461   Due [Idea or Concept]
+   461   Arizona [Geographic Area]
+   461   GROUP (Organism by Group) [Classification]
+   645   Paracolon infection (Salmonella enterica subspecies arizonae infection) [Disease or Syndrome]
+   461   Bacillus (Bacillus <walking sticks>) [Eukaryote]
+<<<<< Mappings
+Processing 'text_000N_18710.tx.1': Intestinal infection due to aerobacter aerogenes
+
+Phrase: Intestinal infection due to aerobacter aerogenes
+>>>>> Phrase
+intestinal infection due to aerobacter aerogenes
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (869):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   469   due (Due to) [Functional Concept]
+   487   Aerobacter aerogenes (Enterobacter aerogenes) [Bacterium]
+Meta Mapping (869):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   469   Due [Idea or Concept]
+   487   Aerobacter aerogenes (Enterobacter aerogenes) [Bacterium]
+Meta Mapping (869):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   INFECTION (Infection) [Pathologic Function]
+   469   due (Due to) [Functional Concept]
+   487   Aerobacter aerogenes (Enterobacter aerogenes) [Bacterium]
+Meta Mapping (869):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   INFECTION (Infection) [Pathologic Function]
+   469   Due [Idea or Concept]
+   487   Aerobacter aerogenes (Enterobacter aerogenes) [Bacterium]
+<<<<< Mappings
+Processing 'text_000N_17725.tx.1': Intestinal infection due to proteus (mirabilis) (morganii)
+
+Phrase: Intestinal infection due to proteus (mirabilis
+>>>>> Phrase
+intestinal infection due to proteus mirabilis
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (887):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   469   due (Due to) [Functional Concept]
+   469   PROTEUS (Proteus) [Bacterium]
+   469   Mirabilis [Plant]
+Meta Mapping (887):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   469   due (Due to) [Functional Concept]
+   469   Proteus (Proteus mudpuppy) [Amphibian]
+   469   Mirabilis [Plant]
+Meta Mapping (887):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   469   Due [Idea or Concept]
+   469   PROTEUS (Proteus) [Bacterium]
+   469   Mirabilis [Plant]
+Meta Mapping (887):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   469   Due [Idea or Concept]
+   469   Proteus (Proteus mudpuppy) [Amphibian]
+   469   Mirabilis [Plant]
+Meta Mapping (887):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   INFECTION (Infection) [Pathologic Function]
+   469   due (Due to) [Functional Concept]
+   469   PROTEUS (Proteus) [Bacterium]
+   469   Mirabilis [Plant]
+Meta Mapping (887):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   INFECTION (Infection) [Pathologic Function]
+   469   due (Due to) [Functional Concept]
+   469   Proteus (Proteus mudpuppy) [Amphibian]
+   469   Mirabilis [Plant]
+Meta Mapping (887):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   INFECTION (Infection) [Pathologic Function]
+   469   Due [Idea or Concept]
+   469   PROTEUS (Proteus) [Bacterium]
+   469   Mirabilis [Plant]
+Meta Mapping (887):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   INFECTION (Infection) [Pathologic Function]
+   469   Due [Idea or Concept]
+   469   Proteus (Proteus mudpuppy) [Amphibian]
+   469   Mirabilis [Plant]
+<<<<< Mappings
+
+Phrase: )
+>>>>> Phrase
+<<<<< Phrase
+
+Phrase: (morganii
+>>>>> Phrase
+morganii
+<<<<< Phrase
+
+Phrase: )
+>>>>> Phrase
+<<<<< Phrase
+Processing 'text_000N_18930.tx.1': Intestinal infection due to staphylococcus
+
+Phrase: Intestinal infection due to staphylococcus
+>>>>> Phrase
+intestinal infection due to staphylococcus
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (866):
+   473   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   640   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   due (Due to) [Functional Concept]
+   473   STAPHYLOCOCCUS (Genus staphylococcus) [Bacterium]
+Meta Mapping (866):
+   473   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   640   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   Due [Idea or Concept]
+   473   STAPHYLOCOCCUS (Genus staphylococcus) [Bacterium]
+Meta Mapping (866):
+   473   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   640   INFECTION (Infection) [Pathologic Function]
+   473   due (Due to) [Functional Concept]
+   473   STAPHYLOCOCCUS (Genus staphylococcus) [Bacterium]
+Meta Mapping (866):
+   473   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   640   INFECTION (Infection) [Pathologic Function]
+   473   Due [Idea or Concept]
+   473   STAPHYLOCOCCUS (Genus staphylococcus) [Bacterium]
+<<<<< Mappings
+Processing 'text_000N_33946.tx.1': Intestinal infection due to pseudomonas
+
+Phrase: Intestinal infection due to pseudomonas
+>>>>> Phrase
+intestinal infection due to pseudomonas
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (866):
+   473   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   640   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   due (Due to) [Functional Concept]
+   473   PSEUDOMONAS (Pseudomonas) [Bacterium]
+Meta Mapping (866):
+   473   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   640   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   due (Due to) [Functional Concept]
+   473   Pseudomonas (Pseudomonas Measurement) [Laboratory Procedure]
+Meta Mapping (866):
+   473   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   640   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   Due [Idea or Concept]
+   473   PSEUDOMONAS (Pseudomonas) [Bacterium]
+Meta Mapping (866):
+   473   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   640   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   Due [Idea or Concept]
+   473   Pseudomonas (Pseudomonas Measurement) [Laboratory Procedure]
+Meta Mapping (866):
+   473   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   640   INFECTION (Infection) [Pathologic Function]
+   473   due (Due to) [Functional Concept]
+   473   PSEUDOMONAS (Pseudomonas) [Bacterium]
+Meta Mapping (866):
+   473   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   640   INFECTION (Infection) [Pathologic Function]
+   473   due (Due to) [Functional Concept]
+   473   Pseudomonas (Pseudomonas Measurement) [Laboratory Procedure]
+Meta Mapping (866):
+   473   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   640   INFECTION (Infection) [Pathologic Function]
+   473   Due [Idea or Concept]
+   473   PSEUDOMONAS (Pseudomonas) [Bacterium]
+Meta Mapping (866):
+   473   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   640   INFECTION (Infection) [Pathologic Function]
+   473   Due [Idea or Concept]
+   473   Pseudomonas (Pseudomonas Measurement) [Laboratory Procedure]
+<<<<< Mappings
+Processing 'text_000N_212288.tx.1': Intestinal infection due to campylobacter
+
+Phrase: Intestinal infection due to campylobacter
+>>>>> Phrase
+intestinal infection due to campylobacter
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (866):
+   473   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   640   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   due (Due to) [Functional Concept]
+   473   CAMPYLOBACTER (Campylobacter) [Bacterium]
+Meta Mapping (866):
+   473   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   640   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   Due [Idea or Concept]
+   473   CAMPYLOBACTER (Campylobacter) [Bacterium]
+Meta Mapping (866):
+   473   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   640   INFECTION (Infection) [Pathologic Function]
+   473   due (Due to) [Functional Concept]
+   473   CAMPYLOBACTER (Campylobacter) [Bacterium]
+Meta Mapping (866):
+   473   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   640   INFECTION (Infection) [Pathologic Function]
+   473   Due [Idea or Concept]
+   473   CAMPYLOBACTER (Campylobacter) [Bacterium]
+<<<<< Mappings
+Processing 'text_000N_239851.tx.1': Intestinal infection due to yersinia enterocolitica
+
+Phrase: Intestinal infection due to yersinia enterocolitica
+>>>>> Phrase
+intestinal infection due to yersinia enterocolitica
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (869):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   469   due (Due to) [Functional Concept]
+   487   YERSINIA ENTEROCOLITICA (Yersinia enterocolitica) [Bacterium]
+Meta Mapping (869):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   469   Due [Idea or Concept]
+   487   YERSINIA ENTEROCOLITICA (Yersinia enterocolitica) [Bacterium]
+Meta Mapping (869):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   INFECTION (Infection) [Pathologic Function]
+   469   due (Due to) [Functional Concept]
+   487   YERSINIA ENTEROCOLITICA (Yersinia enterocolitica) [Bacterium]
+Meta Mapping (869):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   INFECTION (Infection) [Pathologic Function]
+   469   Due [Idea or Concept]
+   487   YERSINIA ENTEROCOLITICA (Yersinia enterocolitica) [Bacterium]
+<<<<< Mappings
+Processing 'text_000N_211809.tx.1': Intestinal infection due to Clostridium difficile
+
+Phrase: Intestinal infection due to Clostridium difficile
+>>>>> Phrase
+intestinal infection due to clostridium difficile
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (869):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   469   due (Due to) [Functional Concept]
+   493   difficile clostridium (Clostridium difficile) [Bacterium]
+Meta Mapping (869):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   469   Due [Idea or Concept]
+   493   difficile clostridium (Clostridium difficile) [Bacterium]
+Meta Mapping (869):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   INFECTION (Infection) [Pathologic Function]
+   469   due (Due to) [Functional Concept]
+   493   difficile clostridium (Clostridium difficile) [Bacterium]
+Meta Mapping (869):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   INFECTION (Infection) [Pathologic Function]
+   469   Due [Idea or Concept]
+   493   difficile clostridium (Clostridium difficile) [Bacterium]
+<<<<< Mappings
+Processing 'text_000N_150615.tx.1': Intestinal infection due to other anaerobes
+
+Phrase: Intestinal infection due to other anaerobes
+>>>>> Phrase
+intestinal infection due to other anaerobes
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (858):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   469   due (Due to) [Functional Concept]
+   469   anaerobes (Bacteria, Anaerobic) [Bacterium]
+Meta Mapping (858):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   469   Due [Idea or Concept]
+   469   anaerobes (Bacteria, Anaerobic) [Bacterium]
+Meta Mapping (858):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   INFECTION (Infection) [Pathologic Function]
+   469   due (Due to) [Functional Concept]
+   469   anaerobes (Bacteria, Anaerobic) [Bacterium]
+Meta Mapping (858):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   INFECTION (Infection) [Pathologic Function]
+   469   Due [Idea or Concept]
+   469   anaerobes (Bacteria, Anaerobic) [Bacterium]
+<<<<< Mappings
+Processing 'text_000N_209914.tx.1': Intestinal infection due to other gram-negative bacteria
+
+Phrase: Intestinal infection due to other gram-negative bacteria
+>>>>> Phrase
+intestinal infection due to other gram negative bacteria
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative [Finding]
+   463   Bacterium (Bacteria) [Bacterium]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative [Finding]
+   463   bacteria (bacteria aspects) [Functional Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative [Finding]
+   463   % Bacteria (Percent of Bacteria) [Quantitative Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative [Finding]
+   463   Bacterium (Bacteria present) [Finding]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Lymph Node) [Finding]
+   463   Bacterium (Bacteria) [Bacterium]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Lymph Node) [Finding]
+   463   bacteria (bacteria aspects) [Functional Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Lymph Node) [Finding]
+   463   % Bacteria (Percent of Bacteria) [Quantitative Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Lymph Node) [Finding]
+   463   Bacterium (Bacteria present) [Finding]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   NEGATIVE (Negative Finding) [Finding]
+   463   Bacterium (Bacteria) [Bacterium]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   NEGATIVE (Negative Finding) [Finding]
+   463   bacteria (bacteria aspects) [Functional Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   NEGATIVE (Negative Finding) [Finding]
+   463   % Bacteria (Percent of Bacteria) [Quantitative Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   NEGATIVE (Negative Finding) [Finding]
+   463   Bacterium (Bacteria present) [Finding]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Number) [Quantitative Concept]
+   463   Bacterium (Bacteria) [Bacterium]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Number) [Quantitative Concept]
+   463   bacteria (bacteria aspects) [Functional Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Number) [Quantitative Concept]
+   463   % Bacteria (Percent of Bacteria) [Quantitative Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Number) [Quantitative Concept]
+   463   Bacterium (Bacteria present) [Finding]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Charge) [Qualitative Concept]
+   463   Bacterium (Bacteria) [Bacterium]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Charge) [Qualitative Concept]
+   463   bacteria (bacteria aspects) [Functional Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Charge) [Qualitative Concept]
+   463   % Bacteria (Percent of Bacteria) [Quantitative Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Charge) [Qualitative Concept]
+   463   Bacterium (Bacteria present) [Finding]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative - answer) [Qualitative Concept]
+   463   Bacterium (Bacteria) [Bacterium]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative - answer) [Qualitative Concept]
+   463   bacteria (bacteria aspects) [Functional Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative - answer) [Qualitative Concept]
+   463   % Bacteria (Percent of Bacteria) [Quantitative Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative - answer) [Qualitative Concept]
+   463   Bacterium (Bacteria present) [Finding]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Expression Negative) [Laboratory or Test Result]
+   463   Bacterium (Bacteria) [Bacterium]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Expression Negative) [Laboratory or Test Result]
+   463   bacteria (bacteria aspects) [Functional Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Expression Negative) [Laboratory or Test Result]
+   463   % Bacteria (Percent of Bacteria) [Quantitative Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Expression Negative) [Laboratory or Test Result]
+   463   Bacterium (Bacteria present) [Finding]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative [Finding]
+   463   Bacterium (Bacteria) [Bacterium]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative [Finding]
+   463   bacteria (bacteria aspects) [Functional Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative [Finding]
+   463   % Bacteria (Percent of Bacteria) [Quantitative Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative [Finding]
+   463   Bacterium (Bacteria present) [Finding]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Lymph Node) [Finding]
+   463   Bacterium (Bacteria) [Bacterium]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Lymph Node) [Finding]
+   463   bacteria (bacteria aspects) [Functional Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Lymph Node) [Finding]
+   463   % Bacteria (Percent of Bacteria) [Quantitative Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Lymph Node) [Finding]
+   463   Bacterium (Bacteria present) [Finding]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   NEGATIVE (Negative Finding) [Finding]
+   463   Bacterium (Bacteria) [Bacterium]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   NEGATIVE (Negative Finding) [Finding]
+   463   bacteria (bacteria aspects) [Functional Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   NEGATIVE (Negative Finding) [Finding]
+   463   % Bacteria (Percent of Bacteria) [Quantitative Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   NEGATIVE (Negative Finding) [Finding]
+   463   Bacterium (Bacteria present) [Finding]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Number) [Quantitative Concept]
+   463   Bacterium (Bacteria) [Bacterium]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Number) [Quantitative Concept]
+   463   bacteria (bacteria aspects) [Functional Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Number) [Quantitative Concept]
+   463   % Bacteria (Percent of Bacteria) [Quantitative Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Number) [Quantitative Concept]
+   463   Bacterium (Bacteria present) [Finding]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Charge) [Qualitative Concept]
+   463   Bacterium (Bacteria) [Bacterium]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Charge) [Qualitative Concept]
+   463   bacteria (bacteria aspects) [Functional Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Charge) [Qualitative Concept]
+   463   % Bacteria (Percent of Bacteria) [Quantitative Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative Charge) [Qualitative Concept]
+   463   Bacterium (Bacteria present) [Finding]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative - answer) [Qualitative Concept]
+   463   Bacterium (Bacteria) [Bacterium]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative - answer) [Qualitative Concept]
+   463   bacteria (bacteria aspects) [Functional Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative - answer) [Qualitative Concept]
+   463   % Bacteria (Percent of Bacteria) [Quantitative Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Negative - answer) [Qualitative Concept]
+   463   Bacterium (Bacteria present) [Finding]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Expression Negative) [Laboratory or Test Result]
+   463   Bacterium (Bacteria) [Bacterium]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Expression Negative) [Laboratory or Test Result]
+   463   bacteria (bacteria aspects) [Functional Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Expression Negative) [Laboratory or Test Result]
+   463   % Bacteria (Percent of Bacteria) [Quantitative Concept]
+Meta Mapping (894):
+   463   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   630   INFECTION (Infection) [Pathologic Function]
+   479   Due To (Due to) [Functional Concept]
+   463   GRAM (gram) [Quantitative Concept]
+   463   Negative (Expression Negative) [Laboratory or Test Result]
+   463   Bacterium (Bacteria present) [Finding]
+<<<<< Mappings
+Processing 'text_000N_7429.tx.1': Intestinal infection due to other organisms
+
+Phrase: Intestinal infection due to other organisms
+>>>>> Phrase
+intestinal infection due to other organisms
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (858):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   469   due (Due to) [Functional Concept]
+   469   Organisms (Organism) [Organism]
+Meta Mapping (858):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   469   Due [Idea or Concept]
+   469   Organisms (Organism) [Organism]
+Meta Mapping (858):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   INFECTION (Infection) [Pathologic Function]
+   469   due (Due to) [Functional Concept]
+   469   Organisms (Organism) [Organism]
+Meta Mapping (858):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   INFECTION (Infection) [Pathologic Function]
+   469   Due [Idea or Concept]
+   469   Organisms (Organism) [Organism]
+<<<<< Mappings
+Processing 'text_000N_153455.tx.1': Bacterial enteritis, unspecified
+
+Phrase: Bacterial enteritis,
+>>>>> Phrase
+bacterial enteritis
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (777):
+   527   Bacterial [Qualitative Concept]
+   694   ENTERITIS (Enteritis) [Disease or Syndrome]
+<<<<< Mappings
+
+Phrase: unspecified
+>>>>> Phrase
+unspecified
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   UNSPECIFIED (Unspecified) [Qualitative Concept]
+Meta Mapping (666):
+   666   Unspecified (XXX Unspecified) [Clinical Attribute]
+Meta Mapping (666):
+   666   Unspecified (Unspecified - Name type) [Idea or Concept]
+Meta Mapping (666):
+   666   UNSPECIFIED (Unspecified State of Consciousness) [Finding]
+Meta Mapping (666):
+   666   Unspecified (External cause codes: Unspecified) [Finding]
+<<<<< Mappings
+Processing 'text_000N_151995.tx.1': Enteritis due to rotavirus
+
+Phrase: Enteritis due to rotavirus
+>>>>> Phrase
+enteritis due to rotavirus
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (849):
+   645   ENTERITIS (Enteritis) [Disease or Syndrome]
+   479   due (Due to) [Functional Concept]
+   479   ROTAVIRUS (Rotavirus) [Virus]
+Meta Mapping (849):
+   645   ENTERITIS (Enteritis) [Disease or Syndrome]
+   479   due (Due to) [Functional Concept]
+   479   rotavirus (rotavirus, live, tetravalent vaccine) [Immunologic Factor,Pharmacologic Substance]
+Meta Mapping (849):
+   645   ENTERITIS (Enteritis) [Disease or Syndrome]
+   479   due (Due to) [Functional Concept]
+   479   Rotavirus (Rotavirus Measurement) [Laboratory Procedure]
+Meta Mapping (849):
+   645   ENTERITIS (Enteritis) [Disease or Syndrome]
+   479   Due [Idea or Concept]
+   479   ROTAVIRUS (Rotavirus) [Virus]
+Meta Mapping (849):
+   645   ENTERITIS (Enteritis) [Disease or Syndrome]
+   479   Due [Idea or Concept]
+   479   rotavirus (rotavirus, live, tetravalent vaccine) [Immunologic Factor,Pharmacologic Substance]
+Meta Mapping (849):
+   645   ENTERITIS (Enteritis) [Disease or Syndrome]
+   479   Due [Idea or Concept]
+   479   Rotavirus (Rotavirus Measurement) [Laboratory Procedure]
+<<<<< Mappings
+Processing 'text_000N_269785.tx.1': Enteritis due to adenovirus
+
+Phrase: Enteritis due to adenovirus
+>>>>> Phrase
+enteritis due to adenovirus
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (849):
+   645   ENTERITIS (Enteritis) [Disease or Syndrome]
+   479   due (Due to) [Functional Concept]
+   479   Adenovirus (Adenoviruses) [Virus]
+Meta Mapping (849):
+   645   ENTERITIS (Enteritis) [Disease or Syndrome]
+   479   due (Due to) [Functional Concept]
+   479   Adenovirus (Adenovirus Infections) [Disease or Syndrome]
+Meta Mapping (849):
+   645   ENTERITIS (Enteritis) [Disease or Syndrome]
+   479   due (Due to) [Functional Concept]
+   479   adenovirus, NOS (Adenovirus Vaccine) [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+Meta Mapping (849):
+   645   ENTERITIS (Enteritis) [Disease or Syndrome]
+   479   due (Due to) [Functional Concept]
+   479   Adenovirus (Adenoviridae Measurement) [Laboratory Procedure]
+Meta Mapping (849):
+   645   ENTERITIS (Enteritis) [Disease or Syndrome]
+   479   Due [Idea or Concept]
+   479   Adenovirus (Adenoviruses) [Virus]
+Meta Mapping (849):
+   645   ENTERITIS (Enteritis) [Disease or Syndrome]
+   479   Due [Idea or Concept]
+   479   Adenovirus (Adenovirus Infections) [Disease or Syndrome]
+Meta Mapping (849):
+   645   ENTERITIS (Enteritis) [Disease or Syndrome]
+   479   Due [Idea or Concept]
+   479   adenovirus, NOS (Adenovirus Vaccine) [Amino Acid, Peptide, or Protein,Immunologic Factor,Pharmacologic Substance]
+Meta Mapping (849):
+   645   ENTERITIS (Enteritis) [Disease or Syndrome]
+   479   Due [Idea or Concept]
+   479   Adenovirus (Adenoviridae Measurement) [Laboratory Procedure]
+<<<<< Mappings
+Processing 'text_000N_6424.tx.1': Enteritis due to norwalk virus
+
+Phrase: Enteritis due to norwalk virus
+>>>>> Phrase
+enteritis due to norwalk virus
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (847):
+   640   ENTERITIS (Enteritis) [Disease or Syndrome]
+   473   due (Due to) [Functional Concept]
+   502   virus norwalk (Norwalk virus) [Virus]
+Meta Mapping (847):
+   640   ENTERITIS (Enteritis) [Disease or Syndrome]
+   473   Due [Idea or Concept]
+   502   virus norwalk (Norwalk virus) [Virus]
+<<<<< Mappings
+Processing 'text_000N_18710.tx.1': Enteritis due to other small round viruses [SRV's]
+
+Phrase: Enteritis due to other small round viruses
+>>>>> Phrase
+enteritis due to other small round viruses
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (885):
+   632   ENTERITIS (Enteritis) [Disease or Syndrome]
+   482   Due To (Due to) [Functional Concept]
+   465   SMALL (Small) [Quantitative Concept]
+   465   ROUND (Round shape) [Spatial Concept]
+   465   VIRUSES (Virus) [Virus]
+Meta Mapping (885):
+   632   ENTERITIS (Enteritis) [Disease or Syndrome]
+   482   Due To (Due to) [Functional Concept]
+   465   SMALL (Small) [Quantitative Concept]
+   465   ROUND (Round shape) [Spatial Concept]
+   465   viruses (Viral) [Functional Concept]
+Meta Mapping (885):
+   632   ENTERITIS (Enteritis) [Disease or Syndrome]
+   482   Due To (Due to) [Functional Concept]
+   465   SMALL (Small) [Quantitative Concept]
+   465   Round (Round Nodule) [Finding]
+   465   VIRUSES (Virus) [Virus]
+Meta Mapping (885):
+   632   ENTERITIS (Enteritis) [Disease or Syndrome]
+   482   Due To (Due to) [Functional Concept]
+   465   SMALL (Small) [Quantitative Concept]
+   465   Round (Round Nodule) [Finding]
+   465   viruses (Viral) [Functional Concept]
+<<<<< Mappings
+
+Phrase: [SRV's
+>>>>> Phrase
+srv's
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   SRV (survivin) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+<<<<< Mappings
+
+Phrase: ]
+>>>>> Phrase
+<<<<< Phrase
+Processing 'text_000N_208789.tx.1': Enteritis due to calicivirus
+
+Phrase: Enteritis due to calicivirus
+>>>>> Phrase
+enteritis due to calicivirus
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (849):
+   645   ENTERITIS (Enteritis) [Disease or Syndrome]
+   479   due (Due to) [Functional Concept]
+   479   Calicivirus [Virus]
+Meta Mapping (849):
+   645   ENTERITIS (Enteritis) [Disease or Syndrome]
+   479   Due [Idea or Concept]
+   479   Calicivirus [Virus]
+<<<<< Mappings
+Processing 'text_000N_17725.tx.1': Enteritis due to astrovirus
+
+Phrase: Enteritis due to astrovirus
+>>>>> Phrase
+enteritis due to astrovirus
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (849):
+   645   ENTERITIS (Enteritis) [Disease or Syndrome]
+   479   due (Due to) [Functional Concept]
+   479   Astrovirus [Virus]
+Meta Mapping (849):
+   645   ENTERITIS (Enteritis) [Disease or Syndrome]
+   479   due (Due to) [Functional Concept]
+   479   Astrovirus (Astroviridae) [Virus]
+Meta Mapping (849):
+   645   ENTERITIS (Enteritis) [Disease or Syndrome]
+   479   Due [Idea or Concept]
+   479   Astrovirus [Virus]
+Meta Mapping (849):
+   645   ENTERITIS (Enteritis) [Disease or Syndrome]
+   479   Due [Idea or Concept]
+   479   Astrovirus (Astroviridae) [Virus]
+<<<<< Mappings
+Processing 'text_000N_212288.tx.1': Enteritis due to enterovirus nec
+
+Phrase: Enteritis due to enterovirus nec
+>>>>> Phrase
+enteritis due to enterovirus nec
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (875):
+   640   ENTERITIS (Enteritis) [Disease or Syndrome]
+   473   due (Due to) [Functional Concept]
+   473   Enterovirus (Enterovirus Infections) [Disease or Syndrome]
+   473   NEC (Necrotizing enterocolitis in fetus OR newborn) [Disease or Syndrome]
+Meta Mapping (875):
+   640   ENTERITIS (Enteritis) [Disease or Syndrome]
+   473   due (Due to) [Functional Concept]
+   473   ENTEROVIRUS (Enterovirus) [Virus]
+   473   NEC (Necrotizing enterocolitis in fetus OR newborn) [Disease or Syndrome]
+Meta Mapping (875):
+   640   ENTERITIS (Enteritis) [Disease or Syndrome]
+   473   due (Due to) [Functional Concept]
+   473   Enterovirus NOS (Enterovirus (antigen)) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   473   NEC (Necrotizing enterocolitis in fetus OR newborn) [Disease or Syndrome]
+Meta Mapping (875):
+   640   ENTERITIS (Enteritis) [Disease or Syndrome]
+   473   due (Due to) [Functional Concept]
+   473   Enterovirus (Enterovirus Measurement) [Laboratory Procedure]
+   473   NEC (Necrotizing enterocolitis in fetus OR newborn) [Disease or Syndrome]
+Meta Mapping (875):
+   640   ENTERITIS (Enteritis) [Disease or Syndrome]
+   473   Due [Idea or Concept]
+   473   Enterovirus (Enterovirus Infections) [Disease or Syndrome]
+   473   NEC (Necrotizing enterocolitis in fetus OR newborn) [Disease or Syndrome]
+Meta Mapping (875):
+   640   ENTERITIS (Enteritis) [Disease or Syndrome]
+   473   Due [Idea or Concept]
+   473   ENTEROVIRUS (Enterovirus) [Virus]
+   473   NEC (Necrotizing enterocolitis in fetus OR newborn) [Disease or Syndrome]
+Meta Mapping (875):
+   640   ENTERITIS (Enteritis) [Disease or Syndrome]
+   473   Due [Idea or Concept]
+   473   Enterovirus NOS (Enterovirus (antigen)) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   473   NEC (Necrotizing enterocolitis in fetus OR newborn) [Disease or Syndrome]
+Meta Mapping (875):
+   640   ENTERITIS (Enteritis) [Disease or Syndrome]
+   473   Due [Idea or Concept]
+   473   Enterovirus (Enterovirus Measurement) [Laboratory Procedure]
+   473   NEC (Necrotizing enterocolitis in fetus OR newborn) [Disease or Syndrome]
+<<<<< Mappings
+Processing 'text_000N_18930.tx.1': Enteritis due to other viral enteritis
+
+Phrase: Enteritis due to other viral enteritis
+>>>>> Phrase
+enteritis due to other viral enteritis
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   Enteritis due to other viral enteritis (Other viral enteritis) [Disease or Syndrome]
+<<<<< Mappings
+Processing 'text_000N_6797.tx.1': Intestinal infection due to other organism, not elsewhere classified
+
+Phrase: Intestinal infection due to other organism,
+>>>>> Phrase
+intestinal infection due to other organism
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (858):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   469   due (Due to) [Functional Concept]
+   469   Organism [Organism]
+Meta Mapping (858):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   469   Due [Idea or Concept]
+   469   Organism [Organism]
+Meta Mapping (858):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   INFECTION (Infection) [Pathologic Function]
+   469   due (Due to) [Functional Concept]
+   469   Organism [Organism]
+Meta Mapping (858):
+   469   Intestinal (Intestines) [Body Part, Organ, or Organ Component]
+   635   INFECTION (Infection) [Pathologic Function]
+   469   Due [Idea or Concept]
+   469   Organism [Organism]
+<<<<< Mappings
+
+Phrase: not
+>>>>> Phrase
+not
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   Not (Negation) [Functional Concept]
+<<<<< Mappings
+
+Phrase: elsewhere
+>>>>> Phrase
+elsewhere
+<<<<< Phrase
+
+Phrase: classified
+>>>>> Phrase
+classified
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   Classified (Classification) [Classification]
+<<<<< Mappings
+Processing 'text_000N_155330.tx.1': Infectious colitis, enteritis, and gastroenteritis
+
+Phrase: Infectious colitis,
+>>>>> Phrase
+infectious colitis
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (742):
+   456   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   694   COLITIS (Colitis) [Disease or Syndrome]
+Meta Mapping (742):
+   456   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   694   Colitis (Colitis, CTCAE) [Finding]
+Meta Mapping (742):
+   456   Infections (Infection) [Pathologic Function]
+   694   COLITIS (Colitis) [Disease or Syndrome]
+Meta Mapping (742):
+   456   Infections (Infection) [Pathologic Function]
+   694   Colitis (Colitis, CTCAE) [Finding]
+<<<<< Mappings
+
+Phrase: enteritis,
+>>>>> Phrase
+enteritis
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   ENTERITIS (Enteritis) [Disease or Syndrome]
+<<<<< Mappings
+
+Phrase: and
+>>>>> Phrase
+<<<<< Phrase
+
+Phrase: gastroenteritis
+>>>>> Phrase
+gastroenteritis
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   GASTROENTERITIS (Gastroenteritis) [Disease or Syndrome]
+<<<<< Mappings
+Processing 'text_000N_239851.tx.1': Colitis, enteritis, and gastroenteritis of presumed infectious origin
+
+Phrase: Colitis,
+>>>>> Phrase
+colitis
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   COLITIS (Colitis) [Disease or Syndrome]
+Meta Mapping (666):
+   666   Colitis (Colitis, CTCAE) [Finding]
+<<<<< Mappings
+
+Phrase: enteritis,
+>>>>> Phrase
+enteritis
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (666):
+   666   ENTERITIS (Enteritis) [Disease or Syndrome]
+<<<<< Mappings
+
+Phrase: and
+>>>>> Phrase
+<<<<< Phrase
+
+Phrase: gastroenteritis of presumed infectious origin
+>>>>> Phrase
+gastroenteritis of presumed infectious origin
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (848):
+   640   GASTROENTERITIS (Gastroenteritis) [Disease or Syndrome]
+   473   Presumed [Qualitative Concept]
+   401   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   origin (National origin) [Classification]
+Meta Mapping (848):
+   640   GASTROENTERITIS (Gastroenteritis) [Disease or Syndrome]
+   473   Presumed [Qualitative Concept]
+   401   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   Origin (Beginning) [Temporal Concept]
+Meta Mapping (848):
+   640   GASTROENTERITIS (Gastroenteritis) [Disease or Syndrome]
+   473   Presumed [Qualitative Concept]
+   401   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   origin (Participation Type - origin) [Intellectual Product]
+Meta Mapping (848):
+   640   GASTROENTERITIS (Gastroenteritis) [Disease or Syndrome]
+   473   Presumed [Qualitative Concept]
+   401   Infections (Infection) [Pathologic Function]
+   473   origin (National origin) [Classification]
+Meta Mapping (848):
+   640   GASTROENTERITIS (Gastroenteritis) [Disease or Syndrome]
+   473   Presumed [Qualitative Concept]
+   401   Infections (Infection) [Pathologic Function]
+   473   Origin (Beginning) [Temporal Concept]
+Meta Mapping (848):
+   640   GASTROENTERITIS (Gastroenteritis) [Disease or Syndrome]
+   473   Presumed [Qualitative Concept]
+   401   Infections (Infection) [Pathologic Function]
+   473   origin (Participation Type - origin) [Intellectual Product]
+<<<<< Mappings
+Processing 'text_000N_33946.tx.1': Infectious diarrhea
+
+Phrase: Infectious diarrhea
+>>>>> Phrase
+infectious diarrhea
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (742):
+   456   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   694   DIARRHOEA (Diarrhea) [Sign or Symptom]
+Meta Mapping (742):
+   456   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   694   Diarrhea (Diarrhea, CTCAE) [Finding]
+Meta Mapping (742):
+   456   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   694   Diarrhea (Have Diarrhea) [Intellectual Product]
+Meta Mapping (742):
+   456   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   694   Diarrhea (How Much Distress Diarrhea) [Intellectual Product]
+Meta Mapping (742):
+   456   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   694   Diarrhea (Usual Severity Diarrhea) [Intellectual Product]
+Meta Mapping (742):
+   456   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   694   Diarrhea (How Often Diarrhea) [Intellectual Product]
+Meta Mapping (742):
+   456   Infections (Infection) [Pathologic Function]
+   694   DIARRHOEA (Diarrhea) [Sign or Symptom]
+Meta Mapping (742):
+   456   Infections (Infection) [Pathologic Function]
+   694   Diarrhea (Diarrhea, CTCAE) [Finding]
+Meta Mapping (742):
+   456   Infections (Infection) [Pathologic Function]
+   694   Diarrhea (Have Diarrhea) [Intellectual Product]
+Meta Mapping (742):
+   456   Infections (Infection) [Pathologic Function]
+   694   Diarrhea (How Much Distress Diarrhea) [Intellectual Product]
+Meta Mapping (742):
+   456   Infections (Infection) [Pathologic Function]
+   694   Diarrhea (Usual Severity Diarrhea) [Intellectual Product]
+Meta Mapping (742):
+   456   Infections (Infection) [Pathologic Function]
+   694   Diarrhea (How Often Diarrhea) [Intellectual Product]
+<<<<< Mappings
+Processing 'text_000N_211809.tx.1': Diarrhea of presumed infectious origin
+
+Phrase: Diarrhea of presumed infectious origin
+>>>>> Phrase
+diarrhea of presumed infectious origin
+<<<<< Phrase
+>>>>> Mappings
+Meta Mapping (848):
+   640   DIARRHOEA (Diarrhea) [Sign or Symptom]
+   473   Presumed [Qualitative Concept]
+   401   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   origin (National origin) [Classification]
+Meta Mapping (848):
+   640   DIARRHOEA (Diarrhea) [Sign or Symptom]
+   473   Presumed [Qualitative Concept]
+   401   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   Origin (Beginning) [Temporal Concept]
+Meta Mapping (848):
+   640   DIARRHOEA (Diarrhea) [Sign or Symptom]
+   473   Presumed [Qualitative Concept]
+   401   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   origin (Participation Type - origin) [Intellectual Product]
+Meta Mapping (848):
+   640   DIARRHOEA (Diarrhea) [Sign or Symptom]
+   473   Presumed [Qualitative Concept]
+   401   Infections (Infection) [Pathologic Function]
+   473   origin (National origin) [Classification]
+Meta Mapping (848):
+   640   DIARRHOEA (Diarrhea) [Sign or Symptom]
+   473   Presumed [Qualitative Concept]
+   401   Infections (Infection) [Pathologic Function]
+   473   Origin (Beginning) [Temporal Concept]
+Meta Mapping (848):
+   640   DIARRHOEA (Diarrhea) [Sign or Symptom]
+   473   Presumed [Qualitative Concept]
+   401   Infections (Infection) [Pathologic Function]
+   473   origin (Participation Type - origin) [Intellectual Product]
+Meta Mapping (848):
+   640   Diarrhea (Diarrhea, CTCAE) [Finding]
+   473   Presumed [Qualitative Concept]
+   401   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   origin (National origin) [Classification]
+Meta Mapping (848):
+   640   Diarrhea (Diarrhea, CTCAE) [Finding]
+   473   Presumed [Qualitative Concept]
+   401   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   Origin (Beginning) [Temporal Concept]
+Meta Mapping (848):
+   640   Diarrhea (Diarrhea, CTCAE) [Finding]
+   473   Presumed [Qualitative Concept]
+   401   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   origin (Participation Type - origin) [Intellectual Product]
+Meta Mapping (848):
+   640   Diarrhea (Diarrhea, CTCAE) [Finding]
+   473   Presumed [Qualitative Concept]
+   401   Infections (Infection) [Pathologic Function]
+   473   origin (National origin) [Classification]
+Meta Mapping (848):
+   640   Diarrhea (Diarrhea, CTCAE) [Finding]
+   473   Presumed [Qualitative Concept]
+   401   Infections (Infection) [Pathologic Function]
+   473   Origin (Beginning) [Temporal Concept]
+Meta Mapping (848):
+   640   Diarrhea (Diarrhea, CTCAE) [Finding]
+   473   Presumed [Qualitative Concept]
+   401   Infections (Infection) [Pathologic Function]
+   473   origin (Participation Type - origin) [Intellectual Product]
+Meta Mapping (848):
+   640   Diarrhea (Have Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   origin (National origin) [Classification]
+Meta Mapping (848):
+   640   Diarrhea (Have Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   Origin (Beginning) [Temporal Concept]
+Meta Mapping (848):
+   640   Diarrhea (Have Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   origin (Participation Type - origin) [Intellectual Product]
+Meta Mapping (848):
+   640   Diarrhea (Have Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infections (Infection) [Pathologic Function]
+   473   origin (National origin) [Classification]
+Meta Mapping (848):
+   640   Diarrhea (Have Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infections (Infection) [Pathologic Function]
+   473   Origin (Beginning) [Temporal Concept]
+Meta Mapping (848):
+   640   Diarrhea (Have Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infections (Infection) [Pathologic Function]
+   473   origin (Participation Type - origin) [Intellectual Product]
+Meta Mapping (848):
+   640   Diarrhea (How Much Distress Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   origin (National origin) [Classification]
+Meta Mapping (848):
+   640   Diarrhea (How Much Distress Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   Origin (Beginning) [Temporal Concept]
+Meta Mapping (848):
+   640   Diarrhea (How Much Distress Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   origin (Participation Type - origin) [Intellectual Product]
+Meta Mapping (848):
+   640   Diarrhea (How Much Distress Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infections (Infection) [Pathologic Function]
+   473   origin (National origin) [Classification]
+Meta Mapping (848):
+   640   Diarrhea (How Much Distress Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infections (Infection) [Pathologic Function]
+   473   Origin (Beginning) [Temporal Concept]
+Meta Mapping (848):
+   640   Diarrhea (How Much Distress Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infections (Infection) [Pathologic Function]
+   473   origin (Participation Type - origin) [Intellectual Product]
+Meta Mapping (848):
+   640   Diarrhea (Usual Severity Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   origin (National origin) [Classification]
+Meta Mapping (848):
+   640   Diarrhea (Usual Severity Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   Origin (Beginning) [Temporal Concept]
+Meta Mapping (848):
+   640   Diarrhea (Usual Severity Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   origin (Participation Type - origin) [Intellectual Product]
+Meta Mapping (848):
+   640   Diarrhea (Usual Severity Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infections (Infection) [Pathologic Function]
+   473   origin (National origin) [Classification]
+Meta Mapping (848):
+   640   Diarrhea (Usual Severity Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infections (Infection) [Pathologic Function]
+   473   Origin (Beginning) [Temporal Concept]
+Meta Mapping (848):
+   640   Diarrhea (Usual Severity Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infections (Infection) [Pathologic Function]
+   473   origin (Participation Type - origin) [Intellectual Product]
+Meta Mapping (848):
+   640   Diarrhea (How Often Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   origin (National origin) [Classification]
+Meta Mapping (848):
+   640   Diarrhea (How Often Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   Origin (Beginning) [Temporal Concept]
+Meta Mapping (848):
+   640   Diarrhea (How Often Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+   473   origin (Participation Type - origin) [Intellectual Product]
+Meta Mapping (848):
+   640   Diarrhea (How Often Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infections (Infection) [Pathologic Function]
+   473   origin (National origin) [Classification]
+Meta Mapping (848):
+   640   Diarrhea (How Often Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infections (Infection) [Pathologic Function]
+   473   Origin (Beginning) [Temporal Concept]
+Meta Mapping (848):
+   640   Diarrhea (How Often Diarrhea) [Intellectual Product]
+   473   Presumed [Qualitative Concept]
+   401   Infections (Infection) [Pathologic Function]
+   473   origin (Participation Type - origin) [Intellectual Product]
+<<<<< Mappings
